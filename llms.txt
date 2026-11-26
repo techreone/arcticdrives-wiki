@@ -1,0 +1,20 @@
+# Arctic Drive Wiki
+
+> Practical Arctic Drive guides for hauling, repairs, base vehicles and 1-4 player co-op.
+
+Last updated: 2026-11-26
+
+## Guides
+
+- [Arctic Drive Wiki hub](https://arcticdrives.wiki/)
+- [All guides index](https://arcticdrives.wiki/guides)
+  - [base vehicles](https://arcticdrives.wiki/guides/base-vehicles)
+  - [co op roles](https://arcticdrives.wiki/guides/co-op-roles)
+  - [early access roadmap](https://arcticdrives.wiki/guides/early-access-roadmap)
+  - [faq](https://arcticdrives.wiki/guides/faq)
+  - [first 20 minutes](https://arcticdrives.wiki/guides/first-20-minutes)
+  - [hauling and fuel](https://arcticdrives.wiki/guides/hauling-and-fuel)
+  - [recycling and crafting](https://arcticdrives.wiki/guides/recycling-and-crafting)
+  - [repair and damage](https://arcticdrives.wiki/guides/repair-and-damage)
+  - [route reading](https://arcticdrives.wiki/guides/route-reading)
+  - [specs and platforms](https://arcticdrives.wiki/guides/specs-and-platforms)

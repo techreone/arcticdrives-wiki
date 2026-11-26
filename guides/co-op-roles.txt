@@ -1,0 +1,128 @@
+1:"$Sreact.fragment"
+2:I[9813,["619","static/chunks/619-ba102abea3e3d0e4.js","177","static/chunks/app/layout-41eba998105111a3.js"],"default"]
+3:I[3967,["619","static/chunks/619-ba102abea3e3d0e4.js","177","static/chunks/app/layout-41eba998105111a3.js"],"default"]
+4:I[971,["619","static/chunks/619-ba102abea3e3d0e4.js","177","static/chunks/app/layout-41eba998105111a3.js"],"default"]
+5:I[9766,[],""]
+6:I[8924,[],""]
+7:I[2619,["619","static/chunks/619-ba102abea3e3d0e4.js","6","static/chunks/app/guides/page-2079c3fb87127e47.js"],""]
+e:I[7150,[],""]
+:HL["/_next/static/css/28d2fd50042458ad.css","style"]
+0:{"P":null,"b":"-gROLEs5Xe-EAqRn9CzS4","p":"","c":["","guides","co-op-roles"],"i":false,"f":[[["",{"children":["guides",{"children":[["slug","co-op-roles","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/28d2fd50042458ad.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","className":"dark __variable_359027 __variable_f02060","children":[["$","head",null,{"children":[false,false]}],["$","body",null,{"className":"flex min-h-screen flex-col bg-[var(--dark-1)] text-foreground font-sans antialiased pb-14 md:pb-0","children":[["$","$L2",null,{}],["$","$L3",null,{"groups":[{"label":"Getting Started","items":[{"slug":"first-20-minutes","title":"Arctic Drive Beginner Guide: Your First 20 Minutes","label":"Beginner Guide: Your First 20 Minutes","img":"/images/arctic-drive/first-20-pickup.webp","href":"/guides/first-20-minutes"},{"slug":"co-op-roles","title":"Arctic Drive Co-op Guide: Roles for 1-4 Players","label":"Co-op Guide: Roles for 1-4 Players","img":"/images/arctic-drive/coop-camp.webp","href":"/guides/co-op-roles"}]},{"label":"Truck & Cargo","items":[{"slug":"hauling-and-fuel","title":"Arctic Drive Hauling and Fuel Guide: Load vs Range","label":"Hauling and Fuel Guide","img":"/images/arctic-drive/hauling-road.webp","href":"/guides/hauling-and-fuel"},{"slug":"repair-and-damage","title":"Arctic Drive Repair Guide: Fix What Strands You","label":"Repair Guide: Fix What Strands You","img":"/images/arctic-drive/repair-garage.webp","href":"/guides/repair-and-damage"},{"slug":"recycling-and-crafting","title":"Arctic Drive Crafting and Recycling Guide: Scrap Loop","label":"Crafting and Recycling Guide: Scrap Loop","img":"/images/arctic-drive/crafting-bench.webp","href":"/guides/recycling-and-crafting"},{"slug":"base-vehicles","title":"Arctic Drive Base Vehicle Guide: Trailer vs Fixed Base","label":"Base Vehicle Guide","img":"/images/arctic-drive/base-camper.webp","href":"/guides/base-vehicles"}]},{"label":"World & Routes","items":[{"slug":"route-reading","title":"Arctic Drive Map Guide: Reading Snow, Ice and Fuel","label":"Map Guide","img":"/images/arctic-drive/route-map.webp","href":"/guides/route-reading"}]},{"label":"Game Info","items":[{"slug":"early-access-roadmap","title":"Arctic Drive Roadmap and Early Access Review (2026)","label":"Roadmap and Early Access Review (2026)","img":"/images/arctic-drive/ea-turbines.webp","href":"/guides/early-access-roadmap"},{"slug":"specs-and-platforms","title":"Arctic Drive System Requirements and Platforms","label":"System Requirements and Platforms","img":"/images/arctic-drive/specs-dash.webp","href":"/guides/specs-and-platforms"},{"slug":"faq","title":"Arctic Drive FAQ: Spelling, Solo Play, Saves and Lag","label":"FAQ","img":"/images/arctic-drive/faq-figure.webp","href":"/guides/faq"}]}]}],["$","div",null,{"className":"main-content-wrapper","children":[["$","$L4",null,{"topics":[],"hasCalculators":true}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"mx-auto w-full max-w-2xl flex-1 px-8 py-24 text-center text-white","children":[["$","p",null,{"className":"font-heading text-6xl font-bold text-zinc-700","children":"404"}],["$","h1",null,{"className":"mt-4 font-heading text-2xl font-bold text-foreground","children":"Page Not Found"}],["$","p",null,{"className":"mt-3 leading-relaxed text-zinc-400","children":"The page you are looking for does not exist or has been moved. Try the homepage or one of the topic hubs below."}],["$","div",null,{"className":"mt-8 flex flex-wrap items-center justify-center gap-4","children":[["$","$L7",null,{"href":"/","className":"rounded-lg border border-zinc-700 px-5 py-2.5 text-sm font-semibold text-zinc-200 hover:border-white hover:text-white transition-colors","children":"Back to Home"}],["$","$L7",null,{"href":"/about","className":"text-sm font-medium text-zinc-400 hover:text-white transition-colors","children":"About Arctic Drive Wiki"}]]}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}],"$L8","$L9"]}],false,false]}]]}]]}],{"children":["guides","$La",{"children":[["slug","co-op-roles","d"],"$Lb",{"children":["__PAGE__","$Lc",{},null,false]},null,false]},null,false]},null,false],"$Ld",false]],"m":"$undefined","G":["$e",[]],"s":false,"S":true}
+10:I[4431,[],"OutletBoundary"]
+12:I[5278,[],"AsyncMetadataOutlet"]
+14:I[4431,[],"ViewportBoundary"]
+16:I[4431,[],"MetadataBoundary"]
+17:"$Sreact.suspense"
+8:["$","footer",null,{"className":"border-t border-zinc-800/60 py-8","children":["$","div",null,{"className":"mx-auto flex max-w-6xl flex-col items-center justify-between gap-3 px-6 text-xs text-zinc-500 sm:flex-row","children":[["$","div",null,{"children":"2026 © Arctic Drive Wiki"}],["$","nav",null,{"aria-label":"Footer","className":"flex items-center gap-4","children":[["$","$L7",null,{"href":"/about","className":"transition-colors hover:text-zinc-300","children":"About"}],["$","$L7",null,{"href":"/privacy","className":"transition-colors hover:text-zinc-300","children":"Privacy Policy"}],["$","$L7",null,{"href":"/tos","className":"transition-colors hover:text-zinc-300","children":"Terms of Service"}]]}]]}]}]
+9:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Organization\",\"name\":\"Arctic Drive Wiki\",\"url\":\"https://arcticdrives.wiki\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://arcticdrives.wiki/images/site/mark-256.webp\"},\"email\":\"hello@arcticdrives.wiki\"}"}}]
+a:["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+b:["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+c:["$","$1","c",{"children":["$Lf",null,["$","$L10",null,{"children":["$L11",["$","$L12",null,{"promise":"$@13"}]]}]]}]
+d:["$","$1","h",{"children":[null,[["$","$L14",null,{"children":"$L15"}],null],["$","$L16",null,{"children":["$","div",null,{"hidden":true,"children":["$","$17",null,{"fallback":null,"children":"$L18"}]}]}]]}]
+19:I[3284,["619","static/chunks/619-ba102abea3e3d0e4.js","54","static/chunks/app/guides/%5Bslug%5D/page-51b66a90e975fa73.js"],"default"]
+1a:T2ba3,
+<p><strong>Quick answer:</strong> Give one player the wheel, one the cargo, one the repairs and one the map. The driver never leaves the seat during a fuel stop, the loader never blocks the cab, and the repair player carries the kit. In a two-player crew, the passenger does cargo, map and repairs between stops.</p>
+<p>A four-player crew can turn a 20-minute supply run into a 10-minute one, or into a 40-minute argument about who took the only repair kit. The difference is role clarity. The truck has four seats and the game supports up to four players, so the seats map naturally to jobs: driver, loader, mechanic, scout. The <a href="/guides/first-20-minutes" class="guide-action-capsule" data-link-type="internal-capsule">first 20 minutes guide<span class="capsule-arrow">→</span></a> is the solo version; this is the crew version.</p>
+<div class="guide-card-wrapper"><a href="/guides/repair-and-damage" class="guide-card-embed" data-link-type="internal-card"><div class="guide-card-media"><img src="/images/arctic-drive/repair-garage.webp" alt="Arctic Drive Repair Guide: Fix What Strands You" loading="lazy" class="guide-card-img"><div class="guide-card-scrim"></div><div class="guide-card-pill"><svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" class="guide-card-pill-icon"><circle cx="12" cy="12" r="10"></circle><polyline points="12 6 12 12 16 14"></polyline></svg><span class="guide-card-pill-read">6 min read</span></div></div><div class="guide-card-body"><div class="guide-card-info"><div class="guide-card-title">Arctic Drive Repair Guide: Fix What Strands You</div><p class="guide-card-desc">The mechanic needs a repair priority before the first breakdown, not after.</p></div><div class="guide-card-cta"><span class="guide-card-cta-text">Read Full Guide</span><div class="guide-card-cta-circle">↗</div></div></div></a></div>
+<p><figure class="figure-block"><img src="/images/arctic-drive/coop-cab.webp" alt="A group of players unloading a pickup outside a cabin, the ideal co-op base stop."><figcaption>A group of players unloading a pickup outside a cabin, the ideal co-op base stop.</figcaption></figure></p>
+<h2 id="what-are-the-four-co-op-jobs">What are the four co-op jobs?</h2>
+<div class="table-wrapper"><table>
+<thead>
+<tr>
+<th>Role</th>
+<th>Owns</th>
+<th>Stays out of</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Driver</td>
+<td>Route, speed, fuel level, parking</td>
+<td>Inventory sorting and long loot runs</td>
+</tr>
+<tr>
+<td>Loader</td>
+<td>Cargo weight, trailer, secure load</td>
+<td>The driver's seat during a stop</td>
+</tr>
+<tr>
+<td>Mechanic</td>
+<td>Repair kit, spare parts, temperature</td>
+<td>Navigation arguments</td>
+</tr>
+<tr>
+<td>Scout</td>
+<td>Map, fuel stops, shelter, danger calls</td>
+<td>Driving unless the driver is down</td>
+</tr>
+</tbody>
+</table></div>
+<p>The roles are not rigid. They are a default so that every job has an owner. If nobody owns the map, the crew drives until the tank is empty and then blames the map.</p>
+<p>The scout owns the map, and the <a href="/guides/route-reading" class="guide-action-capsule" data-link-type="internal-capsule">route reading guide<span class="capsule-arrow">→</span></a> is the page to hand them before the first leg.</p>
+<h2 id="how-should-a-two-player-crew-split">How should a two-player crew split?</h2>
+<p>Two players should run <strong>driver plus passenger-generalist</strong>. The passenger owns the map, the cargo list and the repair kit, and takes over the wheel when the driver needs to loot or repair. That keeps one person in the truck at all times and avoids the classic mistake of both players leaving the vehicle in a whiteout.</p>
+<p>A three-player crew adds a dedicated mechanic. A four-player crew adds a scout who can run ahead on foot or in a second vehicle, mark the next stop and check a bend before the truck commits.</p>
+<h2 id="what-does-each-role-actually-do">What does each role actually do?</h2>
+<h3 id="driver">Driver</h3>
+<p>The driver owns the truck's momentum. That means:</p>
+<ul>
+<li>driving to the conditions, not the speedometer;</li>
+<li>braking before a bend, not in it;</li>
+<li>keeping one jerrycan in reserve;</li>
+<li>parking nose-out at every stop;</li>
+<li>and saying "stopping" before touching the brake.</li>
+</ul>
+<p>The driver should not be the person who runs into a cabin for a 5-minute loot. An idling truck burns fuel, and a driver who is not in the seat cannot move it if the weather turns.</p>
+<h3 id="loader">Loader</h3>
+<p>The loader owns weight distribution. Heavy items go low and over the rear axle, light boxes go on the seat, jerrycans stay upright, and the trailer gets the bulky cargo. The loader also checks the tailgate and the trailer door after every stop.</p>
+<p>A good loader says "loaded" only when the truck is actually ready to move. A bad loader says "almost done" three times while the driver idles.</p>
+<h3 id="mechanic">Mechanic</h3>
+<p>The mechanic carries the repair kit, the spare wheel and the torch. They inspect the truck at every stop, not just after a crash. The mechanic also owns the temperature check: if a player is shivering, the mechanic calls the break before the hypothermia countdown becomes an emergency.</p>
+<h3 id="scout">Scout</h3>
+<p>The scout reads the map, marks fuel and shelter, and checks the next bend. On foot, the scout can look over a crest or test an icy slope before the truck commits. In a whiteout, the scout's job is to keep the crew from driving past the last safe stop.</p>
+<h2 id="what-should-the-driver-never-do">What should the driver never do?</h2>
+<ul>
+<li>Leave the truck running in a sealed garage.</li>
+<li>Drive past a fuel stop because the next one looks closer on the map.</li>
+<li>Brake hard in a corner with a loaded trailer.</li>
+<li>Let a passenger sort inventory in the cab while the truck is moving.</li>
+<li>Reverse without a spotter when the rear view is blocked by cargo.</li>
+</ul>
+<p>The driver's job is to keep the escape route open. Everything else can wait.</p>
+<div class="callout callout-tip"><div class="callout-title">The seat rule</div><div class="callout-body"><p>At every stop, at least one player stays within a few seconds of the driver's seat. In co-op, that player is the designated "anchor" who can move the truck if the others need to run.</p></div></div>
+<h2 id="how-do-you-communicate-without-chaos">How do you communicate without chaos?</h2>
+<p>Use short, directional callouts:</p>
+<ul>
+<li><strong>"Fuel, 10 km"</strong> — the next confirmed stop and the distance.</li>
+<li><strong>"Ice on the bridge"</strong> — a surface warning, not a story.</li>
+<li><strong>"Load heavy"</strong> — the truck is overloaded and needs a drop.</li>
+<li><strong>"Repair kit, last one"</strong> — the crew's insurance level.</li>
+<li><strong>"Stopping"</strong> — the driver is about to brake; secure loose cargo.</li>
+<li><strong>"Clear left"</strong> — a reversing or junction call.</li>
+</ul>
+<p>The car chat icon shows when car chat is active, so check it before a long explanation. Voice chat is for coordination; the map is for detail.</p>
+<h2 id="what-changes-with-crossplay">What changes with crossplay?</h2>
+<p>Crossplay lets Steam and Xbox players share a session, and the host menu includes a recipe-sharing setting for the crew. Turn recipe sharing on if you have new players; it avoids four people researching the same repair kit.</p>
+<p>Cross-progression is not announced, so assume your Steam save and Xbox save are separate. Pick one platform for the crew's long-running base and use the other for casual sessions.</p>
+<h2 id="faq">FAQ</h2>
+<h3 id="can-you-play-solo">Can you play solo?</h3>
+<p>Yes. The game supports single-player, and every role collapses into one person: drive, load, repair, navigate. Solo is slower, not impossible.</p>
+<h3 id="how-do-late-joiners-work">How do late joiners work?</h3>
+<p>Players can join an existing session. Have the host mark the truck on the map and keep a spare seat empty; a late joiner with no seat is a passenger with no job.</p>
+<h3 id="what-is-the-most-important-co-op-rule">What is the most important co-op rule?</h3>
+<p>One person owns the truck at all times. Everything else is negotiable.</p>
+<h2 id="sources-and-version-notes">Sources and version notes</h2>
+<blockquote>
+<p>Official source: <a href="https://store.steampowered.com/app/4009490/Arctic_Drive/" class="external-citation-chip" data-link-type="external-citation" target="_blank" rel="noopener noreferrer nofollow">Arctic Drive on Steam<span class="ext-arrow"> ↗</span></a> — first-person co-op survival for 1-4 players, with voice chat and four seats.</p>
+</blockquote>
+<ul>
+<li><a href="https://www.arcticdrivegame.com/" class="external-citation-chip" data-link-type="external-citation" target="_blank" rel="noopener noreferrer nofollow">Arctic Drive official site<span class="ext-arrow"> ↗</span></a> — co-op and crossplay overview.</li>
+<li><a href="https://store.steampowered.com/news/app/4009490" class="external-citation-chip" data-link-type="external-citation" target="_blank" rel="noopener noreferrer nofollow">Steam launch news and patch notes<span class="ext-arrow"> ↗</span></a> — v0.23.2 recipe-sharing and car chat fixes.</li>
+<li><a href="https://store.steampowered.com/app/4009490/Arctic_Drive/" class="external-citation-chip" data-link-type="external-citation" target="_blank" rel="noopener noreferrer nofollow">Steam store page<span class="ext-arrow"> ↗</span></a> — current multiplayer features.</li>
+</ul>
+<div class="guide-next-bento-container"><div class="guide-bento-grid"><a href="/guides/first-20-minutes" class="guide-bento-card" data-link-type="internal-card"><span class="guide-bento-tag">NEXT OBJECTIVE</span><div class="guide-bento-title">Arctic Drive Beginner Guide: Your First 20 Minutes</div><p class="guide-bento-desc">A practical Arctic Drive opening route: what to load, how to keep the truck alive, and where to spend the first night before the cold sets in.</p><div class="guide-bento-cta"><span>Read Progression Route</span><span> →</span></div></a><a href="/guides/route-reading" class="guide-bento-card" data-link-type="internal-card"><span class="guide-bento-tag">NEXT OBJECTIVE</span><div class="guide-bento-title">Arctic Drive Map Guide: Reading Snow, Ice and Fuel</div><p class="guide-bento-desc">Read the Arctic Drive road before you commit: fuel stops, cabin shelters, icy bends and the whiteout rules that keep a 25 km leg from becoming a walk.</p><div class="guide-bento-cta"><span>Read Progression Route</span><span> →</span></div></a><a href="/guides/repair-and-damage" class="guide-bento-card" data-link-type="internal-card"><span class="guide-bento-tag">NEXT OBJECTIVE</span><div class="guide-bento-title">Arctic Drive Repair Guide: Fix What Strands You</div><p class="guide-bento-desc">A damage-priority guide for Arctic Drive: which broken parts stop the truck, what to salvage, and how to limp home on a bent chassis.</p><div class="guide-bento-cta"><span>Read Progression Route</span><span> →</span></div></a></div></div>f:["$","$L19",null,{"topicId":"arctic-drive","topicName":"Arctic Drive","title":"Arctic Drive Co-op Guide: Roles for 1-4 Players","description":"Split driving, loading, repairs and scouting across an Arctic Drive crew, with callouts, seat plans and a two-player version that actually works.","date":"2026-11-27","imageUrl":"https://arcticdrives.wiki/images/arctic-drive/coop-camp.webp","lastUpdated":"2026-11-27","contentHtml":"$1a","toc":[{"id":"what-are-the-four-co-op-jobs","label":"What are the four co-op jobs?","level":2},{"id":"how-should-a-two-player-crew-split","label":"How should a two-player crew split?","level":2},{"id":"what-does-each-role-actually-do","label":"What does each role actually do?","level":2},{"id":"driver","label":"Driver","level":3},{"id":"loader","label":"Loader","level":3},{"id":"mechanic","label":"Mechanic","level":3},{"id":"scout","label":"Scout","level":3},{"id":"what-should-the-driver-never-do","label":"What should the driver never do?","level":2},{"id":"how-do-you-communicate-without-chaos","label":"How do you communicate without chaos?","level":2},{"id":"what-changes-with-crossplay","label":"What changes with crossplay?","level":2},{"id":"faq","label":"FAQ","level":2},{"id":"can-you-play-solo","label":"Can you play solo?","level":3},{"id":"how-do-late-joiners-work","label":"How do late joiners work?","level":3},{"id":"what-is-the-most-important-co-op-rule","label":"What is the most important co-op rule?","level":3},{"id":"sources-and-version-notes","label":"Sources and version notes","level":2}],"tabs":[{"slug":"guides","label":"Guides","href":"/guides"}],"mainKeyword":"arctic drive co-op","faq":[{"question":"Can you play solo?","answer":"Yes. The game supports single-player, and every role collapses into one person: drive, load, repair, navigate. Solo is slower, not impossible."},{"question":"How do late joiners work?","answer":"Players can join an existing session. Have the host mark the truck on the map and keep a spare seat empty; a late joiner with no seat is a passenger with no job."},{"question":"What is the most important co-op rule?","answer":"One person owns the truck at all times. Everything else is negotiable."}],"canonicalUrl":"https://arcticdrives.wiki/guides/co-op-roles","video":null,"codes":[]}]
+15:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+11:null
+1b:I[622,[],"IconMark"]
+13:{"metadata":[["$","title","0",{"children":"Arctic Drive Co-op Guide: Roles for 1-4 Players"}],["$","meta","1",{"name":"description","content":"Split driving, loading, repairs and scouting across an Arctic Drive crew, with callouts, seat plans and a two-player version that actually works."}],["$","link","2",{"rel":"canonical","href":"https://arcticdrives.wiki/guides/co-op-roles"}],["$","meta","3",{"property":"og:title","content":"Arctic Drive Co-op Guide: Roles for 1-4 Players"}],["$","meta","4",{"property":"og:description","content":"Split driving, loading, repairs and scouting across an Arctic Drive crew, with callouts, seat plans and a two-player version that actually works."}],["$","meta","5",{"property":"og:url","content":"https://arcticdrives.wiki/guides/co-op-roles"}],["$","meta","6",{"property":"og:image","content":"https://arcticdrives.wiki/images/arctic-drive/coop-camp.webp"}],["$","meta","7",{"property":"og:type","content":"article"}],["$","meta","8",{"property":"article:published_time","content":"2026-11-27"}],["$","meta","9",{"property":"article:modified_time","content":"2026-11-27T00:00:00.000Z"}],["$","meta","10",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","11",{"name":"twitter:title","content":"Arctic Drive Co-op Guide: Roles for 1-4 Players"}],["$","meta","12",{"name":"twitter:description","content":"Split driving, loading, repairs and scouting across an Arctic Drive crew, with callouts, seat plans and a two-player version that actually works."}],["$","meta","13",{"name":"twitter:image","content":"https://arcticdrives.wiki/images/arctic-drive/coop-camp.webp"}],["$","link","14",{"rel":"shortcut icon","href":"/favicon-32x32.png"}],["$","link","15",{"rel":"icon","href":"/favicon-32x32.png","sizes":"32x32","type":"image/png"}],["$","link","16",{"rel":"apple-touch-icon","href":"/apple-touch-icon.png"}],["$","$L1b","17",{}]],"error":null,"digest":"$undefined"}
+18:"$13:metadata"

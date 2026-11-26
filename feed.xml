@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Arctic Drive Wiki</title>
+    <link>https://arcticdrives.wiki/</link>
+    <description>Practical Arctic Drive guides for hauling, repairs, base vehicles and 1-4 player co-op.</description>
+    <item>
+      <title>base vehicles</title>
+      <link>https://arcticdrives.wiki/guides/base-vehicles</link>
+      <guid>https://arcticdrives.wiki/guides/base-vehicles</guid>
+      <pubDate>Fri, 27 Nov 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>co op roles</title>
+      <link>https://arcticdrives.wiki/guides/co-op-roles</link>
+      <guid>https://arcticdrives.wiki/guides/co-op-roles</guid>
+      <pubDate>Fri, 27 Nov 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>early access roadmap</title>
+      <link>https://arcticdrives.wiki/guides/early-access-roadmap</link>
+      <guid>https://arcticdrives.wiki/guides/early-access-roadmap</guid>
+      <pubDate>Fri, 27 Nov 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>faq</title>
+      <link>https://arcticdrives.wiki/guides/faq</link>
+      <guid>https://arcticdrives.wiki/guides/faq</guid>
+      <pubDate>Fri, 27 Nov 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>first 20 minutes</title>
+      <link>https://arcticdrives.wiki/guides/first-20-minutes</link>
+      <guid>https://arcticdrives.wiki/guides/first-20-minutes</guid>
+      <pubDate>Fri, 27 Nov 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>hauling and fuel</title>
+      <link>https://arcticdrives.wiki/guides/hauling-and-fuel</link>
+      <guid>https://arcticdrives.wiki/guides/hauling-and-fuel</guid>
+      <pubDate>Fri, 27 Nov 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>recycling and crafting</title>
+      <link>https://arcticdrives.wiki/guides/recycling-and-crafting</link>
+      <guid>https://arcticdrives.wiki/guides/recycling-and-crafting</guid>
+      <pubDate>Fri, 27 Nov 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>repair and damage</title>
+      <link>https://arcticdrives.wiki/guides/repair-and-damage</link>
+      <guid>https://arcticdrives.wiki/guides/repair-and-damage</guid>
+      <pubDate>Fri, 27 Nov 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>route reading</title>
+      <link>https://arcticdrives.wiki/guides/route-reading</link>
+      <guid>https://arcticdrives.wiki/guides/route-reading</guid>
+      <pubDate>Fri, 27 Nov 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>specs and platforms</title>
+      <link>https://arcticdrives.wiki/guides/specs-and-platforms</link>
+      <guid>https://arcticdrives.wiki/guides/specs-and-platforms</guid>
+      <pubDate>Fri, 27 Nov 2026 00:00:00 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

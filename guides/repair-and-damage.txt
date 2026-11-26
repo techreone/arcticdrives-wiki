@@ -1,0 +1,154 @@
+1:"$Sreact.fragment"
+2:I[9813,["619","static/chunks/619-ba102abea3e3d0e4.js","177","static/chunks/app/layout-41eba998105111a3.js"],"default"]
+3:I[3967,["619","static/chunks/619-ba102abea3e3d0e4.js","177","static/chunks/app/layout-41eba998105111a3.js"],"default"]
+4:I[971,["619","static/chunks/619-ba102abea3e3d0e4.js","177","static/chunks/app/layout-41eba998105111a3.js"],"default"]
+5:I[9766,[],""]
+6:I[8924,[],""]
+7:I[2619,["619","static/chunks/619-ba102abea3e3d0e4.js","6","static/chunks/app/guides/page-2079c3fb87127e47.js"],""]
+e:I[7150,[],""]
+:HL["/_next/static/css/28d2fd50042458ad.css","style"]
+0:{"P":null,"b":"-gROLEs5Xe-EAqRn9CzS4","p":"","c":["","guides","repair-and-damage"],"i":false,"f":[[["",{"children":["guides",{"children":[["slug","repair-and-damage","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/28d2fd50042458ad.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","className":"dark __variable_359027 __variable_f02060","children":[["$","head",null,{"children":[false,false]}],["$","body",null,{"className":"flex min-h-screen flex-col bg-[var(--dark-1)] text-foreground font-sans antialiased pb-14 md:pb-0","children":[["$","$L2",null,{}],["$","$L3",null,{"groups":[{"label":"Getting Started","items":[{"slug":"first-20-minutes","title":"Arctic Drive Beginner Guide: Your First 20 Minutes","label":"Beginner Guide: Your First 20 Minutes","img":"/images/arctic-drive/first-20-pickup.webp","href":"/guides/first-20-minutes"},{"slug":"co-op-roles","title":"Arctic Drive Co-op Guide: Roles for 1-4 Players","label":"Co-op Guide: Roles for 1-4 Players","img":"/images/arctic-drive/coop-camp.webp","href":"/guides/co-op-roles"}]},{"label":"Truck & Cargo","items":[{"slug":"hauling-and-fuel","title":"Arctic Drive Hauling and Fuel Guide: Load vs Range","label":"Hauling and Fuel Guide","img":"/images/arctic-drive/hauling-road.webp","href":"/guides/hauling-and-fuel"},{"slug":"repair-and-damage","title":"Arctic Drive Repair Guide: Fix What Strands You","label":"Repair Guide: Fix What Strands You","img":"/images/arctic-drive/repair-garage.webp","href":"/guides/repair-and-damage"},{"slug":"recycling-and-crafting","title":"Arctic Drive Crafting and Recycling Guide: Scrap Loop","label":"Crafting and Recycling Guide: Scrap Loop","img":"/images/arctic-drive/crafting-bench.webp","href":"/guides/recycling-and-crafting"},{"slug":"base-vehicles","title":"Arctic Drive Base Vehicle Guide: Trailer vs Fixed Base","label":"Base Vehicle Guide","img":"/images/arctic-drive/base-camper.webp","href":"/guides/base-vehicles"}]},{"label":"World & Routes","items":[{"slug":"route-reading","title":"Arctic Drive Map Guide: Reading Snow, Ice and Fuel","label":"Map Guide","img":"/images/arctic-drive/route-map.webp","href":"/guides/route-reading"}]},{"label":"Game Info","items":[{"slug":"early-access-roadmap","title":"Arctic Drive Roadmap and Early Access Review (2026)","label":"Roadmap and Early Access Review (2026)","img":"/images/arctic-drive/ea-turbines.webp","href":"/guides/early-access-roadmap"},{"slug":"specs-and-platforms","title":"Arctic Drive System Requirements and Platforms","label":"System Requirements and Platforms","img":"/images/arctic-drive/specs-dash.webp","href":"/guides/specs-and-platforms"},{"slug":"faq","title":"Arctic Drive FAQ: Spelling, Solo Play, Saves and Lag","label":"FAQ","img":"/images/arctic-drive/faq-figure.webp","href":"/guides/faq"}]}]}],["$","div",null,{"className":"main-content-wrapper","children":[["$","$L4",null,{"topics":[],"hasCalculators":true}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"mx-auto w-full max-w-2xl flex-1 px-8 py-24 text-center text-white","children":[["$","p",null,{"className":"font-heading text-6xl font-bold text-zinc-700","children":"404"}],["$","h1",null,{"className":"mt-4 font-heading text-2xl font-bold text-foreground","children":"Page Not Found"}],["$","p",null,{"className":"mt-3 leading-relaxed text-zinc-400","children":"The page you are looking for does not exist or has been moved. Try the homepage or one of the topic hubs below."}],["$","div",null,{"className":"mt-8 flex flex-wrap items-center justify-center gap-4","children":[["$","$L7",null,{"href":"/","className":"rounded-lg border border-zinc-700 px-5 py-2.5 text-sm font-semibold text-zinc-200 hover:border-white hover:text-white transition-colors","children":"Back to Home"}],["$","$L7",null,{"href":"/about","className":"text-sm font-medium text-zinc-400 hover:text-white transition-colors","children":"About Arctic Drive Wiki"}]]}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}],"$L8","$L9"]}],false,false]}]]}]]}],{"children":["guides","$La",{"children":[["slug","repair-and-damage","d"],"$Lb",{"children":["__PAGE__","$Lc",{},null,false]},null,false]},null,false]},null,false],"$Ld",false]],"m":"$undefined","G":["$e",[]],"s":false,"S":true}
+10:I[4431,[],"OutletBoundary"]
+12:I[5278,[],"AsyncMetadataOutlet"]
+14:I[4431,[],"ViewportBoundary"]
+16:I[4431,[],"MetadataBoundary"]
+17:"$Sreact.suspense"
+8:["$","footer",null,{"className":"border-t border-zinc-800/60 py-8","children":["$","div",null,{"className":"mx-auto flex max-w-6xl flex-col items-center justify-between gap-3 px-6 text-xs text-zinc-500 sm:flex-row","children":[["$","div",null,{"children":"2026 © Arctic Drive Wiki"}],["$","nav",null,{"aria-label":"Footer","className":"flex items-center gap-4","children":[["$","$L7",null,{"href":"/about","className":"transition-colors hover:text-zinc-300","children":"About"}],["$","$L7",null,{"href":"/privacy","className":"transition-colors hover:text-zinc-300","children":"Privacy Policy"}],["$","$L7",null,{"href":"/tos","className":"transition-colors hover:text-zinc-300","children":"Terms of Service"}]]}]]}]}]
+9:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Organization\",\"name\":\"Arctic Drive Wiki\",\"url\":\"https://arcticdrives.wiki\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://arcticdrives.wiki/images/site/mark-256.webp\"},\"email\":\"hello@arcticdrives.wiki\"}"}}]
+a:["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+b:["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+c:["$","$1","c",{"children":["$Lf",null,["$","$L10",null,{"children":["$L11",["$","$L12",null,{"promise":"$@13"}]]}]]}]
+d:["$","$1","h",{"children":[null,[["$","$L14",null,{"children":"$L15"}],null],["$","$L16",null,{"children":["$","div",null,{"hidden":true,"children":["$","$17",null,{"fallback":null,"children":"$L18"}]}]}]]}]
+19:I[3284,["619","static/chunks/619-ba102abea3e3d0e4.js","54","static/chunks/app/guides/%5Bslug%5D/page-51b66a90e975fa73.js"],"default"]
+1a:T2ec9,
+<p><strong>Quick answer:</strong> Repair in this order: battery, radiator, engine, tires, heat, lights. A truck that starts, cools itself and rolls can reach a workbench; a truck with a perfect paint job and a dead battery cannot. Carry one repair kit before you need it.</p>
+<p>The damage model is the reason Arctic Drive is not a point-and-drive truck game. The store page says the chassis bends and parts break off, and the launch patch made doors, mirrors and roof lights harder to knock off while keeping the important bits reachable. That sounds forgiving until a radiator lets go 8 km from the nearest garage. The <a href="/guides/hauling-and-fuel" class="guide-action-capsule" data-link-type="internal-capsule">hauling guide<span class="capsule-arrow">→</span></a> explains why a heavy load makes this worse; this page is the repair decision tree.</p>
+<div class="guide-card-wrapper"><a href="/guides/recycling-and-crafting" class="guide-card-embed" data-link-type="internal-card"><div class="guide-card-media"><img src="/images/arctic-drive/crafting-bench.webp" alt="Arctic Drive Crafting and Recycling Guide: Scrap Loop" loading="lazy" class="guide-card-img"><div class="guide-card-scrim"></div><div class="guide-card-pill"><svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" class="guide-card-pill-icon"><circle cx="12" cy="12" r="10"></circle><polyline points="12 6 12 12 16 14"></polyline></svg><span class="guide-card-pill-read">6 min read</span></div></div><div class="guide-card-body"><div class="guide-card-info"><div class="guide-card-title">Arctic Drive Crafting and Recycling Guide: Scrap Loop</div><p class="guide-card-desc">Repair kits come from the crafting loop. Learn the scrap route before your first long run.</p></div><div class="guide-card-cta"><span class="guide-card-cta-text">Read Full Guide</span><div class="guide-card-cta-circle">↗</div></div></div></a></div>
+<p><figure class="figure-block"><img src="/images/arctic-drive/repair-workshop.webp" alt="A garage workshop with tools and salvaged parts, the safest place to do a full repair."><figcaption>A garage workshop with tools and salvaged parts, the safest place to do a full repair.</figcaption></figure></p>
+<h2 id="which-damage-actually-strands-you">Which damage actually strands you?</h2>
+<p>Sort damage by what it takes away, not by how expensive it looks.</p>
+<div class="table-wrapper"><table>
+<thead>
+<tr>
+<th>System</th>
+<th>Symptom</th>
+<th>Priority</th>
+<th>Field answer</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Battery</td>
+<td>No crank, dead dash</td>
+<td>Critical</td>
+<td>Swap in a charged battery from a donor car</td>
+</tr>
+<tr>
+<td>Radiator</td>
+<td>Engine overheats, power drops</td>
+<td>Critical</td>
+<td>Replace or patch before the next climb</td>
+</tr>
+<tr>
+<td>Engine</td>
+<td>Knocking, no power, smoke</td>
+<td>Critical</td>
+<td>Limp at low load; do not tow heavy</td>
+</tr>
+<tr>
+<td>Tire or wheel</td>
+<td>Pulls, thumps, poor grip</td>
+<td>High</td>
+<td>Swap the wheel; keep one spare</td>
+</tr>
+<tr>
+<td>Fuel tank</td>
+<td>Leak or unreachable filler</td>
+<td>High</td>
+<td>Reach it from the dented side; patch if the kit allows</td>
+</tr>
+<tr>
+<td>Cabin heater</td>
+<td>No heat, frosted windshield</td>
+<td>High</td>
+<td>Fix before night; hypothermia is faster than you think</td>
+</tr>
+<tr>
+<td>Doors and mirrors</td>
+<td>Cold draft, no rear view</td>
+<td>Medium</td>
+<td>Fix at the next bench, not on the shoulder</td>
+</tr>
+<tr>
+<td>Lights</td>
+<td>No night visibility</td>
+<td>Medium</td>
+<td>Daylight driving or a torch</td>
+</tr>
+<tr>
+<td>Cosmetic body</td>
+<td>Dents, missing trim</td>
+<td>Low</td>
+<td>Ignore until the truck is mechanically sound</td>
+</tr>
+</tbody>
+</table></div>
+<p>v0.23.2 made the fuel tank reachable on dented cars. If a prompt is missing, walk around the damaged side before assuming the part is gone.</p>
+<h2 id="what-should-you-fix-first-after-a-crash">What should you fix first after a crash?</h2>
+<ol>
+<li><strong>Stop the engine and get out.</strong> A bent chassis can hide a fuel leak, and a hot engine next to a leak is a bad place to inspect.</li>
+<li><strong>Check the wheels.</strong> A destroyed tire is the cheapest stranded-on-the-road failure to fix.</li>
+<li><strong>Open the hood and read the inspection panel.</strong> Look for the battery, radiator, oil and the part that is actually damaged.</li>
+<li><strong>Replace the critical part from your kit or a donor car.</strong> Do not start with cosmetic panels.</li>
+<li><strong>Top up oil and coolant before the test drive.</strong> A dry engine undoes the repair in one climb.</li>
+<li><strong>Drive one slow loop.</strong> If temperature climbs or the steering pulls, stop and re-check before committing to a long leg.</li>
+</ol>
+<div class="callout callout-tip"><div class="callout-title">Repair in daylight</div><div class="callout-body"><p>A shoulder repair at night costs torch battery and patience. If the truck still rolls and the temperature holds, limp to the next shelter and fix it under a light.</p></div></div>
+<h2 id="how-do-repair-kits-and-the-workbench-work">How do repair kits and the workbench work?</h2>
+<p>Repair kits are crafted, not bought from a menu. The launch-window workbench screenshot shows a <strong>Good Repair Kit at 100 scrap</strong> and an <strong>Awesome Repair Kit at 200 scrap</strong>, alongside a cargo box at 35 and a flare gun at 60. Treat those numbers as the current tier prices to verify at your own bench, not as universal constants.</p>
+<p>A repair kit is consumed per fix, so treat it as a route resource: one per truck, plus a spare if towing. Do not burn your last kit on a door.</p>
+<p>The workbench also drives blueprint research. If a repair kit recipe is locked, you need to research it before you can craft it, which is why a sandbox run without a kit can feel like a soft lock. The <a href="/guides/recycling-and-crafting" class="guide-action-capsule" data-link-type="internal-capsule">recycling and crafting guide<span class="capsule-arrow">→</span></a> walks through the scrap-to-blueprint loop.</p>
+<h2 id="what-can-you-salvage-from-a-donor-car">What can you salvage from a donor car?</h2>
+<p>A abandoned car is a parts store. Use the sledgehammer to remove what you need, then carry it to your truck. Prioritize:</p>
+<ul>
+<li><strong>Battery</strong> — the single most common no-start cause.</li>
+<li><strong>Wheel and tire</strong> — matches the axle, and a full wheel is faster than a bare tire.</li>
+<li><strong>Radiator</strong> — fragile, common, and easy to overlook.</li>
+<li><strong>Doors and mirrors</strong> — comfort and visibility, not survival.</li>
+<li><strong>Roof lights</strong> — useful at night, but only after the truck runs.</li>
+</ul>
+<h2 id="how-do-you-limp-home-with-a-bent-chassis">How do you limp home with a bent chassis?</h2>
+<p>Drive slower than you want to. A bent frame changes the steering angle, so the truck may pull under braking and wander on camber. Keep both hands on the wheel, brake early and in a straight line, and avoid any bend that requires a sudden correction.</p>
+<ul>
+<li>Drop the trailer first if you have one. It amplifies every sway.</li>
+<li>Move the heaviest cargo off the damaged corner if the suspension is visibly sagging.</li>
+<li>Run the cabin heater, not the air conditioning; you need heat for the windshield and your body temperature.</li>
+<li>Take the main road even if it is longer. A shortcut through deep snow is how a bent truck becomes a stuck truck.</li>
+<li>Stop every few kilometres and look at the wheels and the temperature gauge.</li>
+</ul>
+<p>If the truck will not hold coolant or the steering has a dead spot, stop. A repair you can walk away from is better than a rollover you cannot.</p>
+<h2 id="when-should-you-abandon-the-truck">When should you abandon the truck?</h2>
+<p>Abandon when the cost of the next repair is higher than the value of the load and the distance to shelter is walkable. In practice, that means no battery, no radiator, no repair kit and no donor car within a few kilometres. Take the food, the warm clothes and the repair kit, mark the truck on the map, and walk to the nearest cabin.</p>
+<p>Do not abandon a truck because it looks bad. Dents and missing mirrors are comfort problems; can it start, cool and steer?</p>
+<h2 id="faq">FAQ</h2>
+<h3 id="can-you-fix-a-tire-without-a-spare">Can you fix a tire without a spare?</h3>
+<p>You need a replacement wheel or tire. A repair kit fixes a damaged part, but it does not create a wheel out of scrap on the shoulder. Carry one spare before you leave the main road.</p>
+<h3 id="does-cold-weather-damage-the-truck">Does cold weather damage the truck?</h3>
+<p>Cold affects you more than the truck. The real risks are hypothermia, frosted glass and a dead battery.</p>
+<h3 id="should-i-repair-at-a-garage-or-in-the-field">Should I repair at a garage or in the field?</h3>
+<p>Field repairs are for critical parts. Save comfort repairs for a garage.</p>
+<h2 id="sources-and-version-notes">Sources and version notes</h2>
+<blockquote>
+<p>Official source: <a href="https://store.steampowered.com/app/4009490/Arctic_Drive/" class="external-citation-chip" data-link-type="external-citation" target="_blank" rel="noopener noreferrer nofollow">Arctic Drive on Steam<span class="ext-arrow"> ↗</span></a> — "Damage is fully simulated: the chassis bends, parts break off."</p>
+</blockquote>
+<ul>
+<li><a href="https://www.arcticdrivegame.com/" class="external-citation-chip" data-link-type="external-citation" target="_blank" rel="noopener noreferrer nofollow">Arctic Drive official site<span class="ext-arrow"> ↗</span></a> — repair and recycling feature overview.</li>
+<li><a href="https://store.steampowered.com/news/app/4009490" class="external-citation-chip" data-link-type="external-citation" target="_blank" rel="noopener noreferrer nofollow">Steam launch news and patch notes<span class="ext-arrow"> ↗</span></a> — v0.23.2 fixes for dented fuel tanks, cabin heaters and part reachability.</li>
+<li><a href="https://store.steampowered.com/app/4009490/Arctic_Drive/" class="external-citation-chip" data-link-type="external-citation" target="_blank" rel="noopener noreferrer nofollow">Steam store page<span class="ext-arrow"> ↗</span></a> — current Early Access build.</li>
+</ul>
+<div class="guide-next-bento-container"><div class="guide-bento-grid"><a href="/guides/recycling-and-crafting" class="guide-bento-card" data-link-type="internal-card"><span class="guide-bento-tag">NEXT OBJECTIVE</span><div class="guide-bento-title">Arctic Drive Crafting and Recycling Guide: Scrap Loop</div><p class="guide-bento-desc">Turn empty boxes, broken parts and scrap into repair kits, cargo boxes and vehicle mods with a repeatable Arctic Drive recycling route.</p><div class="guide-bento-cta"><span>Read Progression Route</span><span> →</span></div></a><a href="/guides/hauling-and-fuel" class="guide-bento-card" data-link-type="internal-card"><span class="guide-bento-tag">NEXT OBJECTIVE</span><div class="guide-bento-title">Arctic Drive Hauling and Fuel Guide: Load vs Range</div><p class="guide-bento-desc">How to distribute cargo, estimate real fuel range per jerrycan, and decide when dropping a box is cheaper than dragging it up the next hill.</p><div class="guide-bento-cta"><span>Read Progression Route</span><span> →</span></div></a><a href="/guides/first-20-minutes" class="guide-bento-card" data-link-type="internal-card"><span class="guide-bento-tag">NEXT OBJECTIVE</span><div class="guide-bento-title">Arctic Drive Beginner Guide: Your First 20 Minutes</div><p class="guide-bento-desc">A practical Arctic Drive opening route: what to load, how to keep the truck alive, and where to spend the first night before the cold sets in.</p><div class="guide-bento-cta"><span>Read Progression Route</span><span> →</span></div></a></div></div>f:["$","$L19",null,{"topicId":"arctic-drive","topicName":"Arctic Drive","title":"Arctic Drive Repair Guide: Fix What Strands You","description":"A damage-priority guide for Arctic Drive: which broken parts stop the truck, what to salvage, and how to limp home on a bent chassis.","date":"2026-11-27","imageUrl":"https://arcticdrives.wiki/images/arctic-drive/repair-garage.webp","lastUpdated":"2026-11-27","contentHtml":"$1a","toc":[{"id":"which-damage-actually-strands-you","label":"Which damage actually strands you?","level":2},{"id":"what-should-you-fix-first-after-a-crash","label":"What should you fix first after a crash?","level":2},{"id":"how-do-repair-kits-and-the-workbench-work","label":"How do repair kits and the workbench work?","level":2},{"id":"what-can-you-salvage-from-a-donor-car","label":"What can you salvage from a donor car?","level":2},{"id":"how-do-you-limp-home-with-a-bent-chassis","label":"How do you limp home with a bent chassis?","level":2},{"id":"when-should-you-abandon-the-truck","label":"When should you abandon the truck?","level":2},{"id":"faq","label":"FAQ","level":2},{"id":"can-you-fix-a-tire-without-a-spare","label":"Can you fix a tire without a spare?","level":3},{"id":"does-cold-weather-damage-the-truck","label":"Does cold weather damage the truck?","level":3},{"id":"should-i-repair-at-a-garage-or-in-the-field","label":"Should I repair at a garage or in the field?","level":3},{"id":"sources-and-version-notes","label":"Sources and version notes","level":2}],"tabs":[{"slug":"guides","label":"Guides","href":"/guides"}],"mainKeyword":"arctic drive repair","faq":[{"question":"Can you fix a tire without a spare?","answer":"You need a replacement wheel or tire. A repair kit fixes a damaged part, but it does not create a wheel out of scrap on the shoulder. Carry one spare before you leave the main road."},{"question":"Does cold weather damage the truck?","answer":"Cold affects you more than the truck. The real risks are hypothermia, frosted glass and a dead battery."},{"question":"Should I repair at a garage or in the field?","answer":"Field repairs are for critical parts. Save comfort repairs for a garage."}],"canonicalUrl":"https://arcticdrives.wiki/guides/repair-and-damage","video":null,"codes":[]}]
+15:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+11:null
+1b:I[622,[],"IconMark"]
+13:{"metadata":[["$","title","0",{"children":"Arctic Drive Repair Guide: Fix What Strands You"}],["$","meta","1",{"name":"description","content":"A damage-priority guide for Arctic Drive: which broken parts stop the truck, what to salvage, and how to limp home on a bent chassis."}],["$","link","2",{"rel":"canonical","href":"https://arcticdrives.wiki/guides/repair-and-damage"}],["$","meta","3",{"property":"og:title","content":"Arctic Drive Repair Guide: Fix What Strands You"}],["$","meta","4",{"property":"og:description","content":"A damage-priority guide for Arctic Drive: which broken parts stop the truck, what to salvage, and how to limp home on a bent chassis."}],["$","meta","5",{"property":"og:url","content":"https://arcticdrives.wiki/guides/repair-and-damage"}],["$","meta","6",{"property":"og:image","content":"https://arcticdrives.wiki/images/arctic-drive/repair-garage.webp"}],["$","meta","7",{"property":"og:type","content":"article"}],["$","meta","8",{"property":"article:published_time","content":"2026-11-27"}],["$","meta","9",{"property":"article:modified_time","content":"2026-11-27T00:00:00.000Z"}],["$","meta","10",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","11",{"name":"twitter:title","content":"Arctic Drive Repair Guide: Fix What Strands You"}],["$","meta","12",{"name":"twitter:description","content":"A damage-priority guide for Arctic Drive: which broken parts stop the truck, what to salvage, and how to limp home on a bent chassis."}],["$","meta","13",{"name":"twitter:image","content":"https://arcticdrives.wiki/images/arctic-drive/repair-garage.webp"}],["$","link","14",{"rel":"shortcut icon","href":"/favicon-32x32.png"}],["$","link","15",{"rel":"icon","href":"/favicon-32x32.png","sizes":"32x32","type":"image/png"}],["$","link","16",{"rel":"apple-touch-icon","href":"/apple-touch-icon.png"}],["$","$L1b","17",{}]],"error":null,"digest":"$undefined"}
+18:"$13:metadata"

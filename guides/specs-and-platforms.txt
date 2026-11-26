@@ -1,0 +1,155 @@
+1:"$Sreact.fragment"
+2:I[9813,["619","static/chunks/619-ba102abea3e3d0e4.js","177","static/chunks/app/layout-41eba998105111a3.js"],"default"]
+3:I[3967,["619","static/chunks/619-ba102abea3e3d0e4.js","177","static/chunks/app/layout-41eba998105111a3.js"],"default"]
+4:I[971,["619","static/chunks/619-ba102abea3e3d0e4.js","177","static/chunks/app/layout-41eba998105111a3.js"],"default"]
+5:I[9766,[],""]
+6:I[8924,[],""]
+7:I[2619,["619","static/chunks/619-ba102abea3e3d0e4.js","6","static/chunks/app/guides/page-2079c3fb87127e47.js"],""]
+e:I[7150,[],""]
+:HL["/_next/static/css/28d2fd50042458ad.css","style"]
+0:{"P":null,"b":"-gROLEs5Xe-EAqRn9CzS4","p":"","c":["","guides","specs-and-platforms"],"i":false,"f":[[["",{"children":["guides",{"children":[["slug","specs-and-platforms","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/28d2fd50042458ad.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","className":"dark __variable_359027 __variable_f02060","children":[["$","head",null,{"children":[false,false]}],["$","body",null,{"className":"flex min-h-screen flex-col bg-[var(--dark-1)] text-foreground font-sans antialiased pb-14 md:pb-0","children":[["$","$L2",null,{}],["$","$L3",null,{"groups":[{"label":"Getting Started","items":[{"slug":"first-20-minutes","title":"Arctic Drive Beginner Guide: Your First 20 Minutes","label":"Beginner Guide: Your First 20 Minutes","img":"/images/arctic-drive/first-20-pickup.webp","href":"/guides/first-20-minutes"},{"slug":"co-op-roles","title":"Arctic Drive Co-op Guide: Roles for 1-4 Players","label":"Co-op Guide: Roles for 1-4 Players","img":"/images/arctic-drive/coop-camp.webp","href":"/guides/co-op-roles"}]},{"label":"Truck & Cargo","items":[{"slug":"hauling-and-fuel","title":"Arctic Drive Hauling and Fuel Guide: Load vs Range","label":"Hauling and Fuel Guide","img":"/images/arctic-drive/hauling-road.webp","href":"/guides/hauling-and-fuel"},{"slug":"repair-and-damage","title":"Arctic Drive Repair Guide: Fix What Strands You","label":"Repair Guide: Fix What Strands You","img":"/images/arctic-drive/repair-garage.webp","href":"/guides/repair-and-damage"},{"slug":"recycling-and-crafting","title":"Arctic Drive Crafting and Recycling Guide: Scrap Loop","label":"Crafting and Recycling Guide: Scrap Loop","img":"/images/arctic-drive/crafting-bench.webp","href":"/guides/recycling-and-crafting"},{"slug":"base-vehicles","title":"Arctic Drive Base Vehicle Guide: Trailer vs Fixed Base","label":"Base Vehicle Guide","img":"/images/arctic-drive/base-camper.webp","href":"/guides/base-vehicles"}]},{"label":"World & Routes","items":[{"slug":"route-reading","title":"Arctic Drive Map Guide: Reading Snow, Ice and Fuel","label":"Map Guide","img":"/images/arctic-drive/route-map.webp","href":"/guides/route-reading"}]},{"label":"Game Info","items":[{"slug":"early-access-roadmap","title":"Arctic Drive Roadmap and Early Access Review (2026)","label":"Roadmap and Early Access Review (2026)","img":"/images/arctic-drive/ea-turbines.webp","href":"/guides/early-access-roadmap"},{"slug":"specs-and-platforms","title":"Arctic Drive System Requirements and Platforms","label":"System Requirements and Platforms","img":"/images/arctic-drive/specs-dash.webp","href":"/guides/specs-and-platforms"},{"slug":"faq","title":"Arctic Drive FAQ: Spelling, Solo Play, Saves and Lag","label":"FAQ","img":"/images/arctic-drive/faq-figure.webp","href":"/guides/faq"}]}]}],["$","div",null,{"className":"main-content-wrapper","children":[["$","$L4",null,{"topics":[],"hasCalculators":true}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"mx-auto w-full max-w-2xl flex-1 px-8 py-24 text-center text-white","children":[["$","p",null,{"className":"font-heading text-6xl font-bold text-zinc-700","children":"404"}],["$","h1",null,{"className":"mt-4 font-heading text-2xl font-bold text-foreground","children":"Page Not Found"}],["$","p",null,{"className":"mt-3 leading-relaxed text-zinc-400","children":"The page you are looking for does not exist or has been moved. Try the homepage or one of the topic hubs below."}],["$","div",null,{"className":"mt-8 flex flex-wrap items-center justify-center gap-4","children":[["$","$L7",null,{"href":"/","className":"rounded-lg border border-zinc-700 px-5 py-2.5 text-sm font-semibold text-zinc-200 hover:border-white hover:text-white transition-colors","children":"Back to Home"}],["$","$L7",null,{"href":"/about","className":"text-sm font-medium text-zinc-400 hover:text-white transition-colors","children":"About Arctic Drive Wiki"}]]}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}],"$L8","$L9"]}],false,false]}]]}]]}],{"children":["guides","$La",{"children":[["slug","specs-and-platforms","d"],"$Lb",{"children":["__PAGE__","$Lc",{},null,false]},null,false]},null,false]},null,false],"$Ld",false]],"m":"$undefined","G":["$e",[]],"s":false,"S":true}
+10:I[4431,[],"OutletBoundary"]
+12:I[5278,[],"AsyncMetadataOutlet"]
+14:I[4431,[],"ViewportBoundary"]
+16:I[4431,[],"MetadataBoundary"]
+17:"$Sreact.suspense"
+8:["$","footer",null,{"className":"border-t border-zinc-800/60 py-8","children":["$","div",null,{"className":"mx-auto flex max-w-6xl flex-col items-center justify-between gap-3 px-6 text-xs text-zinc-500 sm:flex-row","children":[["$","div",null,{"children":"2026 © Arctic Drive Wiki"}],["$","nav",null,{"aria-label":"Footer","className":"flex items-center gap-4","children":[["$","$L7",null,{"href":"/about","className":"transition-colors hover:text-zinc-300","children":"About"}],["$","$L7",null,{"href":"/privacy","className":"transition-colors hover:text-zinc-300","children":"Privacy Policy"}],["$","$L7",null,{"href":"/tos","className":"transition-colors hover:text-zinc-300","children":"Terms of Service"}]]}]]}]}]
+9:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Organization\",\"name\":\"Arctic Drive Wiki\",\"url\":\"https://arcticdrives.wiki\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://arcticdrives.wiki/images/site/mark-256.webp\"},\"email\":\"hello@arcticdrives.wiki\"}"}}]
+a:["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+b:["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+c:["$","$1","c",{"children":["$Lf",null,["$","$L10",null,{"children":["$L11",["$","$L12",null,{"promise":"$@13"}]]}]]}]
+d:["$","$1","h",{"children":[null,[["$","$L14",null,{"children":"$L15"}],null],["$","$L16",null,{"children":["$","div",null,{"hidden":true,"children":["$","$17",null,{"fallback":null,"children":"$L18"}]}]}]]}]
+19:I[3284,["619","static/chunks/619-ba102abea3e3d0e4.js","54","static/chunks/app/guides/%5Bslug%5D/page-51b66a90e975fa73.js"],"default"]
+1a:T2b4a,
+<p><strong>Quick answer:</strong> Arctic Drive needs a GTX 1650, 4 GB of RAM and 8 GB of storage at minimum, with an RTX 3060 and 8 GB recommended. It is PC-only on Steam, also on Xbox Game Preview, supports crossplay but not cross-save, and has partial controller support plus wheel support.</p>
+<p>The game is not a hardware monster. It is a physics-heavy co-op sandbox built on a winter map, and the official specs are modest for a 2026 release. The bigger compatibility questions are input and platform, not frame rate: whether your wheel works, whether your friend on Xbox can join, and whether your save follows you. The <a href="/guides/early-access-roadmap" class="guide-action-capsule" data-link-type="internal-capsule">Early Access review<span class="capsule-arrow">→</span></a> covers whether the game is worth installing; this page covers whether it will run.</p>
+<div class="guide-card-wrapper"><a href="/guides/early-access-roadmap" class="guide-card-embed" data-link-type="internal-card"><div class="guide-card-media"><img src="/images/arctic-drive/ea-turbines.webp" alt="Arctic Drive Roadmap and Early Access Review (2026)" loading="lazy" class="guide-card-img"><div class="guide-card-scrim"></div><div class="guide-card-pill"><svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" class="guide-card-pill-icon"><circle cx="12" cy="12" r="10"></circle><polyline points="12 6 12 12 16 14"></polyline></svg><span class="guide-card-pill-read">6 min read</span></div></div><div class="guide-card-body"><div class="guide-card-info"><div class="guide-card-title">Arctic Drive Roadmap and Early Access Review (2026)</div><p class="guide-card-desc">Read the launch-state review before you buy for the roadmap.</p></div><div class="guide-card-cta"><span class="guide-card-cta-text">Read Full Guide</span><div class="guide-card-cta-circle">↗</div></div></div></a></div>
+<p><figure class="figure-block"><img src="/images/arctic-drive/specs-whiteout.webp" alt="The first-person dashboard, showing the speedometer and fuel gauge you will spend the game watching."><figcaption>The first-person dashboard, showing the speedometer and fuel gauge you will spend the game watching.</figcaption></figure></p>
+<h2 id="what-are-the-pc-system-requirements">What are the PC system requirements?</h2>
+<div class="table-wrapper"><table>
+<thead>
+<tr>
+<th>Component</th>
+<th>Minimum</th>
+<th>Recommended</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>OS</td>
+<td>Windows 10/11 64-bit</td>
+<td>Windows 10/11 64-bit</td>
+</tr>
+<tr>
+<td>CPU</td>
+<td>Intel i5-6600 3.1 GHz or AMD Ryzen 5 1600X 3.5 GHz</td>
+<td>Intel i5-10400 3.1 GHz or AMD Ryzen 5 2600X 3.1 GHz</td>
+</tr>
+<tr>
+<td>RAM</td>
+<td>4 GB</td>
+<td>8 GB</td>
+</tr>
+<tr>
+<td>GPU</td>
+<td>NVIDIA GTX 1650</td>
+<td>NVIDIA RTX 3060</td>
+</tr>
+<tr>
+<td>DirectX</td>
+<td>11</td>
+<td>11</td>
+</tr>
+<tr>
+<td>Storage</td>
+<td>8 GB</td>
+<td>10 GB</td>
+</tr>
+<tr>
+<td>Network</td>
+<td>Broadband</td>
+<td>Broadband</td>
+</tr>
+</tbody>
+</table></div>
+<p>The storage figure is small because the map is procedural and the asset set is compact. The RAM minimum is the one to watch: 4 GB is enough to launch, not enough to run a browser, voice chat and the game at once. If you stream or keep Discord open, treat 8 GB as the real minimum.</p>
+<h2 id="will-it-run-on-a-gaming-laptop">Will it run on a gaming laptop?</h2>
+<p>Probably, with caveats. A GTX 1650 laptop is the minimum GPU, and laptop versions are slower than the desktop card the spec names. Expect low-to-medium settings, a capped frame rate and fans. The recommended RTX 3060 is a safer target if you want the game to look like the screenshots.</p>
+<p>The game also has a history of performance complaints in reviews, especially in multiplayer. A machine that hits the recommended spec is not a guarantee of a smooth four-player session; the host's connection and the number of players matter as much as the GPU.</p>
+<h2 id="does-arctic-drive-support-controllers-and-wheels">Does Arctic Drive support controllers and wheels?</h2>
+<p>Steam lists <strong>Partial Controller Support</strong>, not full. That usually means a gamepad works for driving but may need a keyboard or mouse for menus, inventory or crafting. Do not buy a couch setup assuming every screen is navigable with a pad.</p>
+<p>Steering wheels are a different story. The v0.23.0 patch added wheel support with clutch, manual gears and calibration, and the launch patch fixed force feedback so it releases when you tab out. Reviews still complain that individual gear bindings and some shifters are not supported. If you own a direct-drive wheel and a separate shifter, test your bindings before planning a serious session.</p>
+<div class="callout callout-tip"><div class="callout-title">Steam Deck</div><div class="callout-body"><p>The game defaults to Medium settings on Steam Deck. It runs, but the small text and inventory management are the weak points, not the frame rate.</p></div></div>
+<h2 id="how-do-steam-and-xbox-versions-differ">How do Steam and Xbox versions differ?</h2>
+<div class="table-wrapper"><table>
+<thead>
+<tr>
+<th>Feature</th>
+<th>Steam</th>
+<th>Xbox Game Preview</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Price</td>
+<td>$19.99</td>
+<td>About $21</td>
+</tr>
+<tr>
+<td>Launch</td>
+<td>November 25, 2026</td>
+<td>Same week</td>
+</tr>
+<tr>
+<td>Save system</td>
+<td>Steam Cloud</td>
+<td>Xbox saves</td>
+</tr>
+<tr>
+<td>Crossplay</td>
+<td>Yes, in-game toggle</td>
+<td>Yes, in-game toggle</td>
+</tr>
+<tr>
+<td>Cross-save</td>
+<td>Not announced</td>
+<td>Not announced</td>
+</tr>
+<tr>
+<td>Mods</td>
+<td>Roadmap item</td>
+<td>Not announced</td>
+</tr>
+</tbody>
+</table></div>
+<p>The Xbox version is a Game Preview build, which is the console equivalent of Early Access. It costs slightly more and may update on a different cadence. The Steam version gets the PC-specific advantages: Steam Cloud, Family Sharing and the eventual mod support listed on the roadmap.</p>
+<h2 id="can-steam-and-xbox-players-play-together">Can Steam and Xbox players play together?</h2>
+<p>Yes. Xbox lists cross-platform co-op, and the game has an in-game crossplay toggle. The host controls the session, and the other players join through the game's multiplayer flow. Crossplay does not merge saves: a Steam host's world stays on Steam, and an Xbox player's progress stays on Xbox.</p>
+<p>If your group cares about one persistent base, pick a platform and stay there. If you just want to drive with friends, crossplay is enough. The <a href="/guides/co-op-roles" class="guide-action-capsule" data-link-type="internal-capsule">co-op roles guide<span class="capsule-arrow">→</span></a> covers how to split the crew once everyone is in the truck.</p>
+<h2 id="what-about-vr-mac-and-linux">What about VR, Mac and Linux?</h2>
+<p>No VR mode has been announced. The store lists Windows only, with no Mac or Linux build. Steam Proton may run it on Linux, but that is community compatibility, not an official platform. Do not buy it for a Mac unless you have a Windows partition or a cloud gaming plan.</p>
+<h2 id="frequently-asked-questions">Frequently asked questions</h2>
+<h3 id="is-8-gb-of-ram-enough">Is 8 GB of RAM enough?</h3>
+<p>For the recommended spec, yes. For running the game, voice chat and a browser on the same machine, 16 GB is the comfortable choice.</p>
+<h3 id="does-the-game-support-ultrawide">Does the game support ultrawide?</h3>
+<p>No official ultrawide support has been announced. The first-person dashboard and UI are designed for 16:9, so expect letterboxing or stretched elements on wider screens.</p>
+<h3 id="can-i-transfer-my-steam-save-to-xbox">Can I transfer my Steam save to Xbox?</h3>
+<p>No. There is no cross-progression, and Steam Cloud only syncs between Steam machines.</p>
+<h2 id="sources">Sources</h2>
+<blockquote>
+<p>Official source: the <a href="https://store.steampowered.com/app/4009490/Arctic_Drive/" class="external-citation-chip" data-link-type="external-citation" target="_blank" rel="noopener noreferrer nofollow">Steam store page<span class="ext-arrow"> ↗</span></a> and the <a href="https://www.arcticdrivegame.com/" class="external-citation-chip" data-link-type="external-citation" target="_blank" rel="noopener noreferrer nofollow">Arctic Drive official site<span class="ext-arrow"> ↗</span></a>, checked November 27, 2026.</p>
+</blockquote>
+<blockquote>
+<p>"Minimum: Windows 10/11 64-bit, Intel i5-6600 or AMD Ryzen 5 1600X, 4 GB RAM, NVIDIA GTX 1650, DirectX 11, 8 GB available space." — Arctic Drive Steam store page, November 2026.</p>
+</blockquote>
+<ul>
+<li><a href="https://store.steampowered.com/app/4009490/Arctic_Drive/" class="external-citation-chip" data-link-type="external-citation" target="_blank" rel="noopener noreferrer nofollow">Arctic Drive on Steam<span class="ext-arrow"> ↗</span></a> — system requirements and controller support.</li>
+<li><a href="https://www.xbox.com/games/store" class="external-citation-chip" data-link-type="external-citation" target="_blank" rel="noopener noreferrer nofollow">Xbox Game Preview<span class="ext-arrow"> ↗</span></a> — console storefront; search "Arctic Drive" for the current listing and price.</li>
+<li><a href="https://www.arcticdrivegame.com/" class="external-citation-chip" data-link-type="external-citation" target="_blank" rel="noopener noreferrer nofollow">Arctic Drive official site<span class="ext-arrow"> ↗</span></a> — platform and feature overview.</li>
+</ul>
+<div class="guide-next-bento-container"><div class="guide-bento-grid"><a href="/guides/early-access-roadmap" class="guide-bento-card" data-link-type="internal-card"><span class="guide-bento-tag">NEXT OBJECTIVE</span><div class="guide-bento-title">Arctic Drive Roadmap and Early Access Review (2026)</div><p class="guide-bento-desc">What is actually in Arctic Drive at Early Access launch, what the roadmap promises, and whether $19.99 buys a playable co-op game or a waiting list.</p><div class="guide-bento-cta"><span>Read Progression Route</span><span> →</span></div></a><a href="/guides/faq" class="guide-bento-card" data-link-type="internal-card"><span class="guide-bento-tag">NEXT OBJECTIVE</span><div class="guide-bento-title">Arctic Drive FAQ: Spelling, Solo Play, Saves and Lag</div><p class="guide-bento-desc">Straight answers about Arctic Drive: the Artic Drive spelling, solo play, crossplay, lag, cloud saves, controller support and what to do first.</p><div class="guide-bento-cta"><span>Read Progression Route</span><span> →</span></div></a><a href="/guides/co-op-roles" class="guide-bento-card" data-link-type="internal-card"><span class="guide-bento-tag">NEXT OBJECTIVE</span><div class="guide-bento-title">Arctic Drive Co-op Guide: Roles for 1-4 Players</div><p class="guide-bento-desc">Split driving, loading, repairs and scouting across an Arctic Drive crew, with callouts, seat plans and a two-player version that actually works.</p><div class="guide-bento-cta"><span>Read Progression Route</span><span> →</span></div></a></div></div>f:["$","$L19",null,{"topicId":"arctic-drive","topicName":"Arctic Drive","title":"Arctic Drive System Requirements and Platforms","description":"Arctic Drive PC specs, controller and wheel support, Steam vs Xbox Game Preview differences, crossplay and save compatibility explained.","date":"2026-11-27","imageUrl":"https://arcticdrives.wiki/images/arctic-drive/specs-dash.webp","lastUpdated":"2026-11-27","contentHtml":"$1a","toc":[{"id":"what-are-the-pc-system-requirements","label":"What are the PC system requirements?","level":2},{"id":"will-it-run-on-a-gaming-laptop","label":"Will it run on a gaming laptop?","level":2},{"id":"does-arctic-drive-support-controllers-and-wheels","label":"Does Arctic Drive support controllers and wheels?","level":2},{"id":"how-do-steam-and-xbox-versions-differ","label":"How do Steam and Xbox versions differ?","level":2},{"id":"can-steam-and-xbox-players-play-together","label":"Can Steam and Xbox players play together?","level":2},{"id":"what-about-vr-mac-and-linux","label":"What about VR, Mac and Linux?","level":2},{"id":"frequently-asked-questions","label":"Frequently asked questions","level":2},{"id":"is-8-gb-of-ram-enough","label":"Is 8 GB of RAM enough?","level":3},{"id":"does-the-game-support-ultrawide","label":"Does the game support ultrawide?","level":3},{"id":"can-i-transfer-my-steam-save-to-xbox","label":"Can I transfer my Steam save to Xbox?","level":3},{"id":"sources","label":"Sources","level":2}],"tabs":[{"slug":"guides","label":"Guides","href":"/guides"}],"mainKeyword":"arctic drive system requirements","faq":[{"question":"Is 8 GB of RAM enough?","answer":"For the recommended spec, yes. For running the game, voice chat and a browser on the same machine, 16 GB is the comfortable choice."},{"question":"Does the game support ultrawide?","answer":"No official ultrawide support has been announced. The first-person dashboard and UI are designed for 16:9, so expect letterboxing or stretched elements on wider screens."},{"question":"Can I transfer my Steam save to Xbox?","answer":"No. There is no cross-progression, and Steam Cloud only syncs between Steam machines."}],"canonicalUrl":"https://arcticdrives.wiki/guides/specs-and-platforms","video":null,"codes":[]}]
+15:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+11:null
+1b:I[622,[],"IconMark"]
+13:{"metadata":[["$","title","0",{"children":"Arctic Drive System Requirements and Platforms | Arctic Drive Wiki"}],["$","meta","1",{"name":"description","content":"Arctic Drive PC specs, controller and wheel support, Steam vs Xbox Game Preview differences, crossplay and save compatibility explained."}],["$","link","2",{"rel":"canonical","href":"https://arcticdrives.wiki/guides/specs-and-platforms"}],["$","meta","3",{"property":"og:title","content":"Arctic Drive System Requirements and Platforms"}],["$","meta","4",{"property":"og:description","content":"Arctic Drive PC specs, controller and wheel support, Steam vs Xbox Game Preview differences, crossplay and save compatibility explained."}],["$","meta","5",{"property":"og:url","content":"https://arcticdrives.wiki/guides/specs-and-platforms"}],["$","meta","6",{"property":"og:image","content":"https://arcticdrives.wiki/images/arctic-drive/specs-dash.webp"}],["$","meta","7",{"property":"og:type","content":"article"}],["$","meta","8",{"property":"article:published_time","content":"2026-11-27"}],["$","meta","9",{"property":"article:modified_time","content":"2026-11-27T00:00:00.000Z"}],["$","meta","10",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","11",{"name":"twitter:title","content":"Arctic Drive System Requirements and Platforms"}],["$","meta","12",{"name":"twitter:description","content":"Arctic Drive PC specs, controller and wheel support, Steam vs Xbox Game Preview differences, crossplay and save compatibility explained."}],["$","meta","13",{"name":"twitter:image","content":"https://arcticdrives.wiki/images/arctic-drive/specs-dash.webp"}],["$","link","14",{"rel":"shortcut icon","href":"/favicon-32x32.png"}],["$","link","15",{"rel":"icon","href":"/favicon-32x32.png","sizes":"32x32","type":"image/png"}],["$","link","16",{"rel":"apple-touch-icon","href":"/apple-touch-icon.png"}],["$","$L1b","17",{}]],"error":null,"digest":"$undefined"}
+18:"$13:metadata"

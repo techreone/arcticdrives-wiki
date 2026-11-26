@@ -1,0 +1,172 @@
+1:"$Sreact.fragment"
+2:I[9813,["619","static/chunks/619-ba102abea3e3d0e4.js","177","static/chunks/app/layout-41eba998105111a3.js"],"default"]
+3:I[3967,["619","static/chunks/619-ba102abea3e3d0e4.js","177","static/chunks/app/layout-41eba998105111a3.js"],"default"]
+4:I[971,["619","static/chunks/619-ba102abea3e3d0e4.js","177","static/chunks/app/layout-41eba998105111a3.js"],"default"]
+5:I[9766,[],""]
+6:I[8924,[],""]
+7:I[2619,["619","static/chunks/619-ba102abea3e3d0e4.js","6","static/chunks/app/guides/page-2079c3fb87127e47.js"],""]
+e:I[7150,[],""]
+:HL["/_next/static/css/28d2fd50042458ad.css","style"]
+0:{"P":null,"b":"-gROLEs5Xe-EAqRn9CzS4","p":"","c":["","guides","hauling-and-fuel"],"i":false,"f":[[["",{"children":["guides",{"children":[["slug","hauling-and-fuel","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/28d2fd50042458ad.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","className":"dark __variable_359027 __variable_f02060","children":[["$","head",null,{"children":[false,false]}],["$","body",null,{"className":"flex min-h-screen flex-col bg-[var(--dark-1)] text-foreground font-sans antialiased pb-14 md:pb-0","children":[["$","$L2",null,{}],["$","$L3",null,{"groups":[{"label":"Getting Started","items":[{"slug":"first-20-minutes","title":"Arctic Drive Beginner Guide: Your First 20 Minutes","label":"Beginner Guide: Your First 20 Minutes","img":"/images/arctic-drive/first-20-pickup.webp","href":"/guides/first-20-minutes"},{"slug":"co-op-roles","title":"Arctic Drive Co-op Guide: Roles for 1-4 Players","label":"Co-op Guide: Roles for 1-4 Players","img":"/images/arctic-drive/coop-camp.webp","href":"/guides/co-op-roles"}]},{"label":"Truck & Cargo","items":[{"slug":"hauling-and-fuel","title":"Arctic Drive Hauling and Fuel Guide: Load vs Range","label":"Hauling and Fuel Guide","img":"/images/arctic-drive/hauling-road.webp","href":"/guides/hauling-and-fuel"},{"slug":"repair-and-damage","title":"Arctic Drive Repair Guide: Fix What Strands You","label":"Repair Guide: Fix What Strands You","img":"/images/arctic-drive/repair-garage.webp","href":"/guides/repair-and-damage"},{"slug":"recycling-and-crafting","title":"Arctic Drive Crafting and Recycling Guide: Scrap Loop","label":"Crafting and Recycling Guide: Scrap Loop","img":"/images/arctic-drive/crafting-bench.webp","href":"/guides/recycling-and-crafting"},{"slug":"base-vehicles","title":"Arctic Drive Base Vehicle Guide: Trailer vs Fixed Base","label":"Base Vehicle Guide","img":"/images/arctic-drive/base-camper.webp","href":"/guides/base-vehicles"}]},{"label":"World & Routes","items":[{"slug":"route-reading","title":"Arctic Drive Map Guide: Reading Snow, Ice and Fuel","label":"Map Guide","img":"/images/arctic-drive/route-map.webp","href":"/guides/route-reading"}]},{"label":"Game Info","items":[{"slug":"early-access-roadmap","title":"Arctic Drive Roadmap and Early Access Review (2026)","label":"Roadmap and Early Access Review (2026)","img":"/images/arctic-drive/ea-turbines.webp","href":"/guides/early-access-roadmap"},{"slug":"specs-and-platforms","title":"Arctic Drive System Requirements and Platforms","label":"System Requirements and Platforms","img":"/images/arctic-drive/specs-dash.webp","href":"/guides/specs-and-platforms"},{"slug":"faq","title":"Arctic Drive FAQ: Spelling, Solo Play, Saves and Lag","label":"FAQ","img":"/images/arctic-drive/faq-figure.webp","href":"/guides/faq"}]}]}],["$","div",null,{"className":"main-content-wrapper","children":[["$","$L4",null,{"topics":[],"hasCalculators":true}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"mx-auto w-full max-w-2xl flex-1 px-8 py-24 text-center text-white","children":[["$","p",null,{"className":"font-heading text-6xl font-bold text-zinc-700","children":"404"}],["$","h1",null,{"className":"mt-4 font-heading text-2xl font-bold text-foreground","children":"Page Not Found"}],["$","p",null,{"className":"mt-3 leading-relaxed text-zinc-400","children":"The page you are looking for does not exist or has been moved. Try the homepage or one of the topic hubs below."}],["$","div",null,{"className":"mt-8 flex flex-wrap items-center justify-center gap-4","children":[["$","$L7",null,{"href":"/","className":"rounded-lg border border-zinc-700 px-5 py-2.5 text-sm font-semibold text-zinc-200 hover:border-white hover:text-white transition-colors","children":"Back to Home"}],["$","$L7",null,{"href":"/about","className":"text-sm font-medium text-zinc-400 hover:text-white transition-colors","children":"About Arctic Drive Wiki"}]]}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}],"$L8","$L9"]}],false,false]}]]}]]}],{"children":["guides","$La",{"children":[["slug","hauling-and-fuel","d"],"$Lb",{"children":["__PAGE__","$Lc",{},null,false]},null,false]},null,false]},null,false],"$Ld",false]],"m":"$undefined","G":["$e",[]],"s":false,"S":true}
+10:I[4431,[],"OutletBoundary"]
+12:I[5278,[],"AsyncMetadataOutlet"]
+14:I[4431,[],"ViewportBoundary"]
+16:I[4431,[],"MetadataBoundary"]
+17:"$Sreact.suspense"
+8:["$","footer",null,{"className":"border-t border-zinc-800/60 py-8","children":["$","div",null,{"className":"mx-auto flex max-w-6xl flex-col items-center justify-between gap-3 px-6 text-xs text-zinc-500 sm:flex-row","children":[["$","div",null,{"children":"2026 © Arctic Drive Wiki"}],["$","nav",null,{"aria-label":"Footer","className":"flex items-center gap-4","children":[["$","$L7",null,{"href":"/about","className":"transition-colors hover:text-zinc-300","children":"About"}],["$","$L7",null,{"href":"/privacy","className":"transition-colors hover:text-zinc-300","children":"Privacy Policy"}],["$","$L7",null,{"href":"/tos","className":"transition-colors hover:text-zinc-300","children":"Terms of Service"}]]}]]}]}]
+9:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Organization\",\"name\":\"Arctic Drive Wiki\",\"url\":\"https://arcticdrives.wiki\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://arcticdrives.wiki/images/site/mark-256.webp\"},\"email\":\"hello@arcticdrives.wiki\"}"}}]
+a:["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+b:["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+c:["$","$1","c",{"children":["$Lf",null,["$","$L10",null,{"children":["$L11",["$","$L12",null,{"promise":"$@13"}]]}]]}]
+d:["$","$1","h",{"children":[null,[["$","$L14",null,{"children":"$L15"}],null],["$","$L16",null,{"children":["$","div",null,{"hidden":true,"children":["$","$17",null,{"fallback":null,"children":"$L18"}]}]}]]}]
+19:I[3284,["619","static/chunks/619-ba102abea3e3d0e4.js","54","static/chunks/app/guides/%5Bslug%5D/page-51b66a90e975fa73.js"],"default"]
+1a:T2d8e,
+<p><strong>Quick answer:</strong> Put dense heavy items over the rear axle, keep the back seat for light boxes, and treat a 20 L jerrycan as 12 km empty or 7 km loaded. If your effective range is less than the next stop plus 15 km, drop cargo before you climb, not after you stall.</p>
+<p>Arctic Drive makes weight visible in the worst way: the truck still starts, still rolls, and then drinks the tank twice as fast while the rear end walks through a bend. The official store page says weight burns fuel faster and tight turns can spill the haul, so the load plan is part of the route plan. Use the <a href="/calculators/fuel-range">fuel range calculator</a> after you read this, and keep the <a href="/guides/first-20-minutes" class="guide-action-capsule" data-link-type="internal-capsule">first 20 minutes guide<span class="capsule-arrow">→</span></a> open while you pack.</p>
+<div class="guide-card-wrapper"><a href="/guides/repair-and-damage" class="guide-card-embed" data-link-type="internal-card"><div class="guide-card-media"><img src="/images/arctic-drive/repair-garage.webp" alt="Arctic Drive Repair Guide: Fix What Strands You" loading="lazy" class="guide-card-img"><div class="guide-card-scrim"></div><div class="guide-card-pill"><svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" class="guide-card-pill-icon"><circle cx="12" cy="12" r="10"></circle><polyline points="12 6 12 12 16 14"></polyline></svg><span class="guide-card-pill-read">6 min read</span></div></div><div class="guide-card-body"><div class="guide-card-info"><div class="guide-card-title">Arctic Drive Repair Guide: Fix What Strands You</div><p class="guide-card-desc">A heavy truck breaks parts faster. Know which repair gets you home before you add another crate.</p></div><div class="guide-card-cta"><span class="guide-card-cta-text">Read Full Guide</span><div class="guide-card-cta-circle">↗</div></div></div></a></div>
+<p><figure class="figure-block"><img src="/images/arctic-drive/hauling-crate.webp" alt="A box truck on a snow-covered road, the kind of load that punishes a lazy weight distribution."><figcaption>A box truck on a snow-covered road, the kind of load that punishes a lazy weight distribution.</figcaption></figure></p>
+<h2 id="what-is-the-best-way-to-distribute-weight">What is the best way to distribute weight?</h2>
+<p>Think in three zones: floor, seat and trailer. The floor over the rear axle carries dense heavy items because the suspension and tires are designed for it. The back seat carries light, fragile or frequently used items. The trailer carries bulky cargo that you can unload first at a base.</p>
+<p>Where the load actually sits, and whether a trailer earns its drag, is covered in the <a href="/guides/base-vehicles" class="guide-action-capsule" data-link-type="internal-capsule">base vehicle guide<span class="capsule-arrow">→</span></a>.</p>
+<div class="table-wrapper"><table>
+<thead>
+<tr>
+<th>Zone</th>
+<th>Load</th>
+<th>Avoid</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Bed or trunk floor</td>
+<td>Jerrycans, toolboxes, engine parts, dense scrap</td>
+<td>Stacking heavy boxes above the bed rails</td>
+</tr>
+<tr>
+<td>Back seat</td>
+<td>Food, clothes, repair kits, light boxes</td>
+<td>Anything that can slide into the driver</td>
+</tr>
+<tr>
+<td>Trailer</td>
+<td>Bulky cargo, spare parts, base supplies</td>
+<td>Your only repair kit or your only fuel can</td>
+</tr>
+<tr>
+<td>Roof or hood</td>
+<td>Nothing</td>
+<td>Loose cargo that blocks visibility</td>
+</tr>
+</tbody>
+</table></div>
+<h2 id="how-far-does-one-jerrycan-actually-go">How far does one jerrycan actually go?</h2>
+<p>The engine inspection panel in the launch-window build lists the Old Car Engine at <strong>0.6 km/L</strong>. That is the clean baseline: 20 L equals about 12 km.</p>
+<div class="table-wrapper"><table>
+<thead>
+<tr>
+<th>Condition</th>
+<th>Planning multiplier</th>
+<th>20 L jerrycan range</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Empty truck, main road</td>
+<td>1.00</td>
+<td>12 km</td>
+</tr>
+<tr>
+<td>Normal load, mixed road</td>
+<td>0.85</td>
+<td>10 km</td>
+</tr>
+<tr>
+<td>Heavy load, deep snow</td>
+<td>0.70</td>
+<td>8 km</td>
+</tr>
+<tr>
+<td>Trailer, hills, storm</td>
+<td>0.60</td>
+<td>7 km</td>
+</tr>
+</tbody>
+</table></div>
+<p>These multipliers are planning estimates, not game constants. They are conservative because detours and whiteouts make a 25 km route longer. The calculator lets you change every number.</p>
+<div class="callout callout-warning"><div class="callout-title">The 25 km trap</div><div class="callout-body"><p>The road network was extended to a 25 km maximum travel distance in v0.13.8. That is a diameter, not a guarantee that a station sits at the end of every leg. Carry enough to reach the next known stop and back to the main road.</p></div></div>
+<h2 id="when-should-you-drop-a-box-instead-of-hauling-it">When should you drop a box instead of hauling it?</h2>
+<p>Drop cargo when any one of these is true:</p>
+<ol>
+<li><strong>Range margin is under 15 km.</strong> Subtract your effective range from the distance to the next confirmed fuel stop. If the answer is negative, the box is already costing you the run.</li>
+<li><strong>The truck cannot hold a climb.</strong> If you are downshifting, losing speed and smelling a slipping clutch, the load is too heavy for the grade. Take the densest low-value item out first.</li>
+<li><strong>The trailer starts steering the truck.</strong> Sway on a descent is a warning, not a style. Stop, unload the top layer, and redistribute before the next bend.</li>
+<li><strong>Repair cost exceeds cargo value.</strong> A box of decorations is not worth a radiator, a tire and a 100-scrap repair kit.</li>
+</ol>
+<h2 id="should-you-tow-a-trailer-or-use-the-bed">Should you tow a trailer or use the bed?</h2>
+<p>Use the bed for the first run. A trailer adds a second cargo body, a hitch, a ramp and a set of shelves, and it changes how the truck behaves on every bend. The v0.23.0 patch made trailers easier to attach, more stable when towed and able to be pulled by hand from the hitch, but it did not make them weightless.</p>
+<div class="table-wrapper"><table>
+<thead>
+<tr>
+<th>Setup</th>
+<th>Best for</th>
+<th>Cost</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Bed only</td>
+<td>First 25 km, unknown routes, solo</td>
+<td>Least fuel, least risk</td>
+</tr>
+<tr>
+<td>Bed plus trailer</td>
+<td>Base resupply, known road, two players</td>
+<td>More capacity, more sway, more fuel</td>
+</tr>
+<tr>
+<td>Trailer as mobile base</td>
+<td>Long sessions, no fixed garage</td>
+<td>Highest setup cost, slowest loading</td>
+</tr>
+</tbody>
+</table></div>
+<p>A trailer is worth it when you are moving a base, not when you are making a fuel run. Load the cargo you will not touch for a day in the trailer; keep the day bag, repair kit and one jerrycan in the truck.</p>
+<h2 id="what-does-a-25-km-fuel-plan-look-like">What does a 25 km fuel plan look like?</h2>
+<p>Work backwards from the stop, not forwards from the tank.</p>
+<ul>
+<li><strong>25 km at 0.6 km/L</strong> needs about 42 L of fuel in perfect conditions.</li>
+<li>Add a 15 percent reserve for detours and idle time: about 48 L.</li>
+<li>With a normal load, divide by 0.85: about 57 L.</li>
+<li>That is roughly three 20 L jerrycans, or two cans plus a half tank.</li>
+</ul>
+<p>If you do not have that, shorten the leg. A 15 km out-and-back beats a 25 km one-way trip with no reserve. The calculator rounds cans up.</p>
+<h2 id="how-do-you-stop-cargo-spilling-on-bends">How do you stop cargo spilling on bends?</h2>
+<p>Slow down before the bend, not in it. Brake in a straight line, release the brake at turn-in, and let the truck coast through with a light throttle. A tight turn at speed is what throws boxes off the seat and jerrycans out of the bed.</p>
+<ul>
+<li>Put jerrycans upright in a corner of the trunk, not loose on the floor.</li>
+<li>Close the tailgate and check it after every hard bump.</li>
+<li>Do not stack above the bed rails; the first bump will rearrange it.</li>
+<li>If a trailer is attached, take bends one gear lower than you would solo.</li>
+</ul>
+<h2 id="faq">FAQ</h2>
+<h3 id="does-the-game-model-weight-per-item">Does the game model weight per item?</h3>
+<p>Yes. Each item has weight, and the truck's handling and fuel burn react to the total load.</p>
+<h3 id="can-a-passenger-help-load">Can a passenger help load?</h3>
+<p>Yes. Passengers can load cargo and spot the trailer while you reverse.</p>
+<h3 id="what-is-the-best-first-upgrade-for-hauling">What is the best first upgrade for hauling?</h3>
+<p>A repair kit and a spare tire come before any cargo upgrade. A bigger haul means nothing if the truck cannot finish the route.</p>
+<h2 id="sources-and-version-notes">Sources and version notes</h2>
+<blockquote>
+<p>Official source: <a href="https://store.steampowered.com/app/4009490/Arctic_Drive/" class="external-citation-chip" data-link-type="external-citation" target="_blank" rel="noopener noreferrer nofollow">Arctic Drive on Steam<span class="ext-arrow"> ↗</span></a> — "Weight burns fuel faster, and tight turns can spill your haul."</p>
+</blockquote>
+<ul>
+<li><a href="https://www.arcticdrivegame.com/" class="external-citation-chip" data-link-type="external-citation" target="_blank" rel="noopener noreferrer nofollow">Arctic Drive official site<span class="ext-arrow"> ↗</span></a> — feature overview, including the physical cargo system.</li>
+<li><a href="https://store.steampowered.com/news/app/4009490" class="external-citation-chip" data-link-type="external-citation" target="_blank" rel="noopener noreferrer nofollow">Steam launch news and patch notes<span class="ext-arrow"> ↗</span></a> — v0.13.8 travel distance and v0.23.0 trailer changes.</li>
+<li><a href="https://store.steampowered.com/app/4009490/Arctic_Drive/" class="external-citation-chip" data-link-type="external-citation" target="_blank" rel="noopener noreferrer nofollow">Steam store page<span class="ext-arrow"> ↗</span></a> — current build and system requirements.</li>
+</ul>
+<div class="guide-next-bento-container"><div class="guide-bento-grid"><a href="/guides/first-20-minutes" class="guide-bento-card" data-link-type="internal-card"><span class="guide-bento-tag">NEXT OBJECTIVE</span><div class="guide-bento-title">Arctic Drive Beginner Guide: Your First 20 Minutes</div><p class="guide-bento-desc">A practical Arctic Drive opening route: what to load, how to keep the truck alive, and where to spend the first night before the cold sets in.</p><div class="guide-bento-cta"><span>Read Progression Route</span><span> →</span></div></a><a href="/guides/base-vehicles" class="guide-bento-card" data-link-type="internal-card"><span class="guide-bento-tag">NEXT OBJECTIVE</span><div class="guide-bento-title">Arctic Drive Base Vehicle Guide: Trailer vs Fixed Base</div><p class="guide-bento-desc">Compare a camper, a trailer and a fixed garage in Arctic Drive, with setup steps, running costs and the point where a mobile base stops paying.</p><div class="guide-bento-cta"><span>Read Progression Route</span><span> →</span></div></a><a href="/guides/route-reading" class="guide-bento-card" data-link-type="internal-card"><span class="guide-bento-tag">NEXT OBJECTIVE</span><div class="guide-bento-title">Arctic Drive Map Guide: Reading Snow, Ice and Fuel</div><p class="guide-bento-desc">Read the Arctic Drive road before you commit: fuel stops, cabin shelters, icy bends and the whiteout rules that keep a 25 km leg from becoming a walk.</p><div class="guide-bento-cta"><span>Read Progression Route</span><span> →</span></div></a></div></div>f:["$","$L19",null,{"topicId":"arctic-drive","topicName":"Arctic Drive","title":"Arctic Drive Hauling and Fuel Guide: Load vs Range","description":"How to distribute cargo, estimate real fuel range per jerrycan, and decide when dropping a box is cheaper than dragging it up the next hill.","date":"2026-11-27","imageUrl":"https://arcticdrives.wiki/images/arctic-drive/hauling-road.webp","lastUpdated":"2026-11-27","contentHtml":"$1a","toc":[{"id":"what-is-the-best-way-to-distribute-weight","label":"What is the best way to distribute weight?","level":2},{"id":"how-far-does-one-jerrycan-actually-go","label":"How far does one jerrycan actually go?","level":2},{"id":"when-should-you-drop-a-box-instead-of-hauling-it","label":"When should you drop a box instead of hauling it?","level":2},{"id":"should-you-tow-a-trailer-or-use-the-bed","label":"Should you tow a trailer or use the bed?","level":2},{"id":"what-does-a-25-km-fuel-plan-look-like","label":"What does a 25 km fuel plan look like?","level":2},{"id":"how-do-you-stop-cargo-spilling-on-bends","label":"How do you stop cargo spilling on bends?","level":2},{"id":"faq","label":"FAQ","level":2},{"id":"does-the-game-model-weight-per-item","label":"Does the game model weight per item?","level":3},{"id":"can-a-passenger-help-load","label":"Can a passenger help load?","level":3},{"id":"what-is-the-best-first-upgrade-for-hauling","label":"What is the best first upgrade for hauling?","level":3},{"id":"sources-and-version-notes","label":"Sources and version notes","level":2}],"tabs":[{"slug":"guides","label":"Guides","href":"/guides"}],"mainKeyword":"arctic drive hauling","faq":[{"question":"Does the game model weight per item?","answer":"Yes. Each item has weight, and the truck's handling and fuel burn react to the total load."},{"question":"Can a passenger help load?","answer":"Yes. Passengers can load cargo and spot the trailer while you reverse."},{"question":"What is the best first upgrade for hauling?","answer":"A repair kit and a spare tire come before any cargo upgrade. A bigger haul means nothing if the truck cannot finish the route."}],"canonicalUrl":"https://arcticdrives.wiki/guides/hauling-and-fuel","video":null,"codes":[]}]
+15:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+11:null
+1b:I[622,[],"IconMark"]
+13:{"metadata":[["$","title","0",{"children":"Arctic Drive Hauling and Fuel Guide: Load vs Range"}],["$","meta","1",{"name":"description","content":"How to distribute cargo, estimate real fuel range per jerrycan, and decide when dropping a box is cheaper than dragging it up the next hill."}],["$","link","2",{"rel":"canonical","href":"https://arcticdrives.wiki/guides/hauling-and-fuel"}],["$","meta","3",{"property":"og:title","content":"Arctic Drive Hauling and Fuel Guide: Load vs Range"}],["$","meta","4",{"property":"og:description","content":"How to distribute cargo, estimate real fuel range per jerrycan, and decide when dropping a box is cheaper than dragging it up the next hill."}],["$","meta","5",{"property":"og:url","content":"https://arcticdrives.wiki/guides/hauling-and-fuel"}],["$","meta","6",{"property":"og:image","content":"https://arcticdrives.wiki/images/arctic-drive/hauling-road.webp"}],["$","meta","7",{"property":"og:type","content":"article"}],["$","meta","8",{"property":"article:published_time","content":"2026-11-27"}],["$","meta","9",{"property":"article:modified_time","content":"2026-11-27T00:00:00.000Z"}],["$","meta","10",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","11",{"name":"twitter:title","content":"Arctic Drive Hauling and Fuel Guide: Load vs Range"}],["$","meta","12",{"name":"twitter:description","content":"How to distribute cargo, estimate real fuel range per jerrycan, and decide when dropping a box is cheaper than dragging it up the next hill."}],["$","meta","13",{"name":"twitter:image","content":"https://arcticdrives.wiki/images/arctic-drive/hauling-road.webp"}],["$","link","14",{"rel":"shortcut icon","href":"/favicon-32x32.png"}],["$","link","15",{"rel":"icon","href":"/favicon-32x32.png","sizes":"32x32","type":"image/png"}],["$","link","16",{"rel":"apple-touch-icon","href":"/apple-touch-icon.png"}],["$","$L1b","17",{}]],"error":null,"digest":"$undefined"}
+18:"$13:metadata"

@@ -1,0 +1,122 @@
+1:"$Sreact.fragment"
+2:I[9813,["619","static/chunks/619-ba102abea3e3d0e4.js","177","static/chunks/app/layout-41eba998105111a3.js"],"default"]
+3:I[3967,["619","static/chunks/619-ba102abea3e3d0e4.js","177","static/chunks/app/layout-41eba998105111a3.js"],"default"]
+4:I[971,["619","static/chunks/619-ba102abea3e3d0e4.js","177","static/chunks/app/layout-41eba998105111a3.js"],"default"]
+5:I[9766,[],""]
+6:I[8924,[],""]
+7:I[2619,["619","static/chunks/619-ba102abea3e3d0e4.js","6","static/chunks/app/guides/page-2079c3fb87127e47.js"],""]
+e:I[7150,[],""]
+:HL["/_next/static/css/28d2fd50042458ad.css","style"]
+0:{"P":null,"b":"-gROLEs5Xe-EAqRn9CzS4","p":"","c":["","guides","route-reading"],"i":false,"f":[[["",{"children":["guides",{"children":[["slug","route-reading","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/28d2fd50042458ad.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","className":"dark __variable_359027 __variable_f02060","children":[["$","head",null,{"children":[false,false]}],["$","body",null,{"className":"flex min-h-screen flex-col bg-[var(--dark-1)] text-foreground font-sans antialiased pb-14 md:pb-0","children":[["$","$L2",null,{}],["$","$L3",null,{"groups":[{"label":"Getting Started","items":[{"slug":"first-20-minutes","title":"Arctic Drive Beginner Guide: Your First 20 Minutes","label":"Beginner Guide: Your First 20 Minutes","img":"/images/arctic-drive/first-20-pickup.webp","href":"/guides/first-20-minutes"},{"slug":"co-op-roles","title":"Arctic Drive Co-op Guide: Roles for 1-4 Players","label":"Co-op Guide: Roles for 1-4 Players","img":"/images/arctic-drive/coop-camp.webp","href":"/guides/co-op-roles"}]},{"label":"Truck & Cargo","items":[{"slug":"hauling-and-fuel","title":"Arctic Drive Hauling and Fuel Guide: Load vs Range","label":"Hauling and Fuel Guide","img":"/images/arctic-drive/hauling-road.webp","href":"/guides/hauling-and-fuel"},{"slug":"repair-and-damage","title":"Arctic Drive Repair Guide: Fix What Strands You","label":"Repair Guide: Fix What Strands You","img":"/images/arctic-drive/repair-garage.webp","href":"/guides/repair-and-damage"},{"slug":"recycling-and-crafting","title":"Arctic Drive Crafting and Recycling Guide: Scrap Loop","label":"Crafting and Recycling Guide: Scrap Loop","img":"/images/arctic-drive/crafting-bench.webp","href":"/guides/recycling-and-crafting"},{"slug":"base-vehicles","title":"Arctic Drive Base Vehicle Guide: Trailer vs Fixed Base","label":"Base Vehicle Guide","img":"/images/arctic-drive/base-camper.webp","href":"/guides/base-vehicles"}]},{"label":"World & Routes","items":[{"slug":"route-reading","title":"Arctic Drive Map Guide: Reading Snow, Ice and Fuel","label":"Map Guide","img":"/images/arctic-drive/route-map.webp","href":"/guides/route-reading"}]},{"label":"Game Info","items":[{"slug":"early-access-roadmap","title":"Arctic Drive Roadmap and Early Access Review (2026)","label":"Roadmap and Early Access Review (2026)","img":"/images/arctic-drive/ea-turbines.webp","href":"/guides/early-access-roadmap"},{"slug":"specs-and-platforms","title":"Arctic Drive System Requirements and Platforms","label":"System Requirements and Platforms","img":"/images/arctic-drive/specs-dash.webp","href":"/guides/specs-and-platforms"},{"slug":"faq","title":"Arctic Drive FAQ: Spelling, Solo Play, Saves and Lag","label":"FAQ","img":"/images/arctic-drive/faq-figure.webp","href":"/guides/faq"}]}]}],["$","div",null,{"className":"main-content-wrapper","children":[["$","$L4",null,{"topics":[],"hasCalculators":true}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"mx-auto w-full max-w-2xl flex-1 px-8 py-24 text-center text-white","children":[["$","p",null,{"className":"font-heading text-6xl font-bold text-zinc-700","children":"404"}],["$","h1",null,{"className":"mt-4 font-heading text-2xl font-bold text-foreground","children":"Page Not Found"}],["$","p",null,{"className":"mt-3 leading-relaxed text-zinc-400","children":"The page you are looking for does not exist or has been moved. Try the homepage or one of the topic hubs below."}],["$","div",null,{"className":"mt-8 flex flex-wrap items-center justify-center gap-4","children":[["$","$L7",null,{"href":"/","className":"rounded-lg border border-zinc-700 px-5 py-2.5 text-sm font-semibold text-zinc-200 hover:border-white hover:text-white transition-colors","children":"Back to Home"}],["$","$L7",null,{"href":"/about","className":"text-sm font-medium text-zinc-400 hover:text-white transition-colors","children":"About Arctic Drive Wiki"}]]}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}],"$L8","$L9"]}],false,false]}]]}]]}],{"children":["guides","$La",{"children":[["slug","route-reading","d"],"$Lb",{"children":["__PAGE__","$Lc",{},null,false]},null,false]},null,false]},null,false],"$Ld",false]],"m":"$undefined","G":["$e",[]],"s":false,"S":true}
+10:I[4431,[],"OutletBoundary"]
+12:I[5278,[],"AsyncMetadataOutlet"]
+14:I[4431,[],"ViewportBoundary"]
+16:I[4431,[],"MetadataBoundary"]
+17:"$Sreact.suspense"
+8:["$","footer",null,{"className":"border-t border-zinc-800/60 py-8","children":["$","div",null,{"className":"mx-auto flex max-w-6xl flex-col items-center justify-between gap-3 px-6 text-xs text-zinc-500 sm:flex-row","children":[["$","div",null,{"children":"2026 © Arctic Drive Wiki"}],["$","nav",null,{"aria-label":"Footer","className":"flex items-center gap-4","children":[["$","$L7",null,{"href":"/about","className":"transition-colors hover:text-zinc-300","children":"About"}],["$","$L7",null,{"href":"/privacy","className":"transition-colors hover:text-zinc-300","children":"Privacy Policy"}],["$","$L7",null,{"href":"/tos","className":"transition-colors hover:text-zinc-300","children":"Terms of Service"}]]}]]}]}]
+9:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Organization\",\"name\":\"Arctic Drive Wiki\",\"url\":\"https://arcticdrives.wiki\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://arcticdrives.wiki/images/site/mark-256.webp\"},\"email\":\"hello@arcticdrives.wiki\"}"}}]
+a:["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+b:["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+c:["$","$1","c",{"children":["$Lf",null,["$","$L10",null,{"children":["$L11",["$","$L12",null,{"promise":"$@13"}]]}]]}]
+d:["$","$1","h",{"children":[null,[["$","$L14",null,{"children":"$L15"}],null],["$","$L16",null,{"children":["$","div",null,{"hidden":true,"children":["$","$17",null,{"fallback":null,"children":"$L18"}]}]}]]}]
+19:I[3284,["619","static/chunks/619-ba102abea3e3d0e4.js","54","static/chunks/app/guides/%5Bslug%5D/page-51b66a90e975fa73.js"],"default"]
+1a:T2c0b,
+<p><strong>Quick answer:</strong> Plan every leg around a fuel stop, a shelter and a bail-out point. Slow before icy bends, never brake mid-corner, and treat 25 km as the maximum road distance, not a safe range. In a whiteout, follow known landmarks and stop rather than guess.</p>
+<p>The map is procedural, but the decisions are not. Gas stations, cabins, supermarkets and garages are fixed enough to plan around, and the road keeps throwing the same traps: a crest that hides a bend, a downhill sheet of ice, a gate that looks passable until you hit it at 20 km/h. The <a href="/guides/hauling-and-fuel" class="guide-action-capsule" data-link-type="internal-capsule">hauling guide<span class="capsule-arrow">→</span></a> covers what the load does to your stopping distance; this page is about reading the road before the road reads you.</p>
+<div class="guide-card-wrapper"><a href="/guides/first-20-minutes" class="guide-card-embed" data-link-type="internal-card"><div class="guide-card-media"><img src="/images/arctic-drive/first-20-pickup.webp" alt="Arctic Drive Beginner Guide: Your First 20 Minutes" loading="lazy" class="guide-card-img"><div class="guide-card-scrim"></div><div class="guide-card-pill"><svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" class="guide-card-pill-icon"><circle cx="12" cy="12" r="10"></circle><polyline points="12 6 12 12 16 14"></polyline></svg><span class="guide-card-pill-read">6 min read</span></div></div><div class="guide-card-body"><div class="guide-card-info"><div class="guide-card-title">Arctic Drive Beginner Guide: Your First 20 Minutes</div><p class="guide-card-desc">New to the route? Learn the first-night shelter rule before you plan a long leg.</p></div><div class="guide-card-cta"><span class="guide-card-cta-text">Read Full Guide</span><div class="guide-card-cta-circle">↗</div></div></div></a></div>
+<p><figure class="figure-block"><img src="/images/arctic-drive/route-gas.webp" alt="A folded map in hand, showing the road network and marked points of interest."><figcaption>A folded map in hand, showing the road network and marked points of interest.</figcaption></figure></p>
+<h2 id="what-should-you-mark-on-the-map-before-driving">What should you mark on the map before driving?</h2>
+<p>Mark four things before you turn the key:</p>
+<p>A crew divides map work differently; the <a href="/guides/co-op-roles" class="guide-action-capsule" data-link-type="internal-capsule">co-op roles guide<span class="capsule-arrow">→</span></a> explains who marks the next stop.</p>
+<ol>
+<li><strong>The next fuel stop.</strong> Not the furthest one you can reach; the next one you can reach with a 15 km reserve.</li>
+<li><strong>A shelter on the route.</strong> A cabin, garage or stash room you can reach if the weather turns.</li>
+<li><strong>A bail-out point.</strong> A wide spot, a station forecourt or a flat shoulder where you can turn around.</li>
+<li><strong>The return leg.</strong> A route that works one way may not work when the truck is heavier and the light is gone.</li>
+</ol>
+<p>If you cannot mark all four, the leg is not planned. It is a gamble with extra steps.</p>
+<h2 id="how-do-you-read-a-gas-station-approach">How do you read a gas station approach?</h2>
+<p>A station is more than a fuel pump. It is a lit, flat, usually snow-cleared area with a canopy, which makes it the best bad-weather stop on the map. Approach it slowly and look for three things:</p>
+<ul>
+<li><strong>The pump or jerrycan stack.</strong> Fuel may be on the shelf, not in the ground tank.</li>
+<li><strong>A parked car.</strong> A car with fuel in it can be siphoned, which extends a leg you thought was over.</li>
+<li><strong>The exit.</strong> Do not park under the canopy with the truck pointed into a dead end.</li>
+</ul>
+<p>Stations also attract clutter and sometimes a fence or gate. The v0.23.2 patch made fences, gates and chain locks break when rammed at 15 km/h or more. That is a useful escape hatch, not a driving technique; a gate that breaks may also damage the truck.</p>
+<h2 id="which-bends-require-slowing-down">Which bends require slowing down?</h2>
+<div class="table-wrapper"><table>
+<thead>
+<tr>
+<th>Bend type</th>
+<th>Tell</th>
+<th>What to do</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Ice-covered downhill</td>
+<td>Shiny surface, no tire tracks</td>
+<td>Drop a gear before the crest, no braking in the curve</td>
+</tr>
+<tr>
+<td>Crest-hidden bend</td>
+<td>Road disappears over a rise</td>
+<td>Lift off before the top, expect a turn</td>
+</tr>
+<tr>
+<td>Tight turn with a trailer</td>
+<td>Trailer visible in the mirror, road narrows</td>
+<td>Slow to a crawl, take it wide, avoid a downshift mid-corner</td>
+</tr>
+<tr>
+<td>Cambered snow road</td>
+<td>Truck pulls to the ditch</td>
+<td>Keep light throttle, steer smooth, do not fight the wheel</td>
+</tr>
+<tr>
+<td>Rocky Valley switchback</td>
+<td>Rock wall on one side, drop on the other</td>
+<td>Use the full road, sound the horn, keep momentum</td>
+</tr>
+</tbody>
+</table></div>
+<p>The Nisei N100 is four-wheel drive and has better grip than the rear-drive starter trucks, but four driven wheels do not create friction on ice. If the truck is sliding, the answer is less throttle and less steering, not more of both.</p>
+<div class="callout callout-warning"><div class="callout-title">The 15 km/h rule cuts both ways</div><div class="callout-body"><p>Gates and fences break at 15 km/h, but so does your front end. If you would not hit a gate at that speed in real life, do not do it with a full cargo load.</p></div></div>
+<h2 id="how-do-you-navigate-in-a-whiteout">How do you navigate in a whiteout?</h2>
+<p>Whiteout navigation is dead reckoning with a truck. You need a heading, a distance and a confirmed landmark, not a vague sense that the road was here a minute ago.</p>
+<ul>
+<li><strong>Slow to walking pace or stop.</strong> The fastest way through a whiteout is usually to wait it out.</li>
+<li><strong>Follow the roadside, not the horizon.</strong> Look for poles, fences, tire tracks and guardrails.</li>
+<li><strong>Use the map, not the scenery.</strong> The map still shows the road when the world does not.</li>
+<li><strong>Keep the heater on and the windows clear.</strong> Frost on the inside is as blinding as snow outside.</li>
+<li><strong>If you are lost, stop and save.</strong> A saved position is easier to recover than a roll into a ditch.</li>
+</ul>
+<p>Airdrops use smoke by day and a strobe at night, and they carry a full jerrycan if your car is running dry. They are a rescue, not a route plan.</p>
+<h2 id="what-does-the-map-ui-actually-show">What does the map UI actually show?</h2>
+<p>The map shows the road network, your position and marked points of interest. It does not show every obstacle, every parked car or the current snow depth. Treat it as a planning tool, not a live traffic feed.</p>
+<p>The map table in a base is better for the big picture: it gives you room to compare routes and mark a return leg. The hand map is for a quick check before a turn. In co-op, the passenger owns the map; the driver owns the road.</p>
+<h2 id="what-is-a-safe-route-rule">What is a safe route rule?</h2>
+<p>Use the <strong>three-stop rule</strong>: never drive a leg that does not have a fuel stop, a shelter and a turnaround within reach. On a 25 km map, that usually means planning in 8-12 km hops, not one heroic crossing.</p>
+<p>At 0.6 km/L, 10 km costs about 17 L before load penalties — most of a jerrycan. A route with two known stations is a route; a route with one maybe-station is a story you tell after walking home.</p>
+<h2 id="faq">FAQ</h2>
+<h3 id="does-the-map-reset-every-run">Does the map reset every run?</h3>
+<p>The road is procedural, so layout and loot can change between runs. Fixed points of interest and the general road structure give you anchors, but do not memorize a single route as universal.</p>
+<h3 id="can-you-fast-travel">Can you fast travel?</h3>
+<p>No. The truck is the way out, and driving is the game. Plan routes you can actually complete, not routes you hope to skip.</p>
+<h3 id="what-is-the-best-landmark-to-navigate-by">What is the best landmark to navigate by?</h3>
+<p>A gas station canopy, a wind turbine or a cabin with a light. Pick something visible from a distance and confirm it on the map before you rely on it in a storm.</p>
+<h2 id="sources-and-version-notes">Sources and version notes</h2>
+<blockquote>
+<p>Official source: <a href="https://store.steampowered.com/app/4009490/Arctic_Drive/" class="external-citation-chip" data-link-type="external-citation" target="_blank" rel="noopener noreferrer nofollow">Arctic Drive on Steam<span class="ext-arrow"> ↗</span></a> — a procedural winter road with cabins, gas stations and blizzard shelters.</p>
+</blockquote>
+<ul>
+<li><a href="https://www.arcticdrivegame.com/" class="external-citation-chip" data-link-type="external-citation" target="_blank" rel="noopener noreferrer nofollow">Arctic Drive official site<span class="ext-arrow"> ↗</span></a> — world and route feature overview.</li>
+<li><a href="https://store.steampowered.com/news/app/4009490" class="external-citation-chip" data-link-type="external-citation" target="_blank" rel="noopener noreferrer nofollow">Steam launch news and patch notes<span class="ext-arrow"> ↗</span></a> — v0.13.8 travel distance and v0.23.2 gate and road fixes.</li>
+<li><a href="https://store.steampowered.com/app/4009490/Arctic_Drive/" class="external-citation-chip" data-link-type="external-citation" target="_blank" rel="noopener noreferrer nofollow">Steam store page<span class="ext-arrow"> ↗</span></a> — current build.</li>
+</ul>
+<div class="guide-next-bento-container"><div class="guide-bento-grid"><a href="/guides/first-20-minutes" class="guide-bento-card" data-link-type="internal-card"><span class="guide-bento-tag">NEXT OBJECTIVE</span><div class="guide-bento-title">Arctic Drive Beginner Guide: Your First 20 Minutes</div><p class="guide-bento-desc">A practical Arctic Drive opening route: what to load, how to keep the truck alive, and where to spend the first night before the cold sets in.</p><div class="guide-bento-cta"><span>Read Progression Route</span><span> →</span></div></a><a href="/guides/hauling-and-fuel" class="guide-bento-card" data-link-type="internal-card"><span class="guide-bento-tag">NEXT OBJECTIVE</span><div class="guide-bento-title">Arctic Drive Hauling and Fuel Guide: Load vs Range</div><p class="guide-bento-desc">How to distribute cargo, estimate real fuel range per jerrycan, and decide when dropping a box is cheaper than dragging it up the next hill.</p><div class="guide-bento-cta"><span>Read Progression Route</span><span> →</span></div></a><a href="/guides/co-op-roles" class="guide-bento-card" data-link-type="internal-card"><span class="guide-bento-tag">NEXT OBJECTIVE</span><div class="guide-bento-title">Arctic Drive Co-op Guide: Roles for 1-4 Players</div><p class="guide-bento-desc">Split driving, loading, repairs and scouting across an Arctic Drive crew, with callouts, seat plans and a two-player version that actually works.</p><div class="guide-bento-cta"><span>Read Progression Route</span><span> →</span></div></a></div></div>f:["$","$L19",null,{"topicId":"arctic-drive","topicName":"Arctic Drive","title":"Arctic Drive Map Guide: Reading Snow, Ice and Fuel","description":"Read the Arctic Drive road before you commit: fuel stops, cabin shelters, icy bends and the whiteout rules that keep a 25 km leg from becoming a walk.","date":"2026-11-27","imageUrl":"https://arcticdrives.wiki/images/arctic-drive/route-map.webp","lastUpdated":"2026-11-27","contentHtml":"$1a","toc":[{"id":"what-should-you-mark-on-the-map-before-driving","label":"What should you mark on the map before driving?","level":2},{"id":"how-do-you-read-a-gas-station-approach","label":"How do you read a gas station approach?","level":2},{"id":"which-bends-require-slowing-down","label":"Which bends require slowing down?","level":2},{"id":"how-do-you-navigate-in-a-whiteout","label":"How do you navigate in a whiteout?","level":2},{"id":"what-does-the-map-ui-actually-show","label":"What does the map UI actually show?","level":2},{"id":"what-is-a-safe-route-rule","label":"What is a safe route rule?","level":2},{"id":"faq","label":"FAQ","level":2},{"id":"does-the-map-reset-every-run","label":"Does the map reset every run?","level":3},{"id":"can-you-fast-travel","label":"Can you fast travel?","level":3},{"id":"what-is-the-best-landmark-to-navigate-by","label":"What is the best landmark to navigate by?","level":3},{"id":"sources-and-version-notes","label":"Sources and version notes","level":2}],"tabs":[{"slug":"guides","label":"Guides","href":"/guides"}],"mainKeyword":"arctic drive map","faq":[{"question":"Does the map reset every run?","answer":"The road is procedural, so layout and loot can change between runs. Fixed points of interest and the general road structure give you anchors, but do not memorize a single route as universal."},{"question":"Can you fast travel?","answer":"No. The truck is the way out, and driving is the game. Plan routes you can actually complete, not routes you hope to skip."},{"question":"What is the best landmark to navigate by?","answer":"A gas station canopy, a wind turbine or a cabin with a light. Pick something visible from a distance and confirm it on the map before you rely on it in a storm."}],"canonicalUrl":"https://arcticdrives.wiki/guides/route-reading","video":null,"codes":[]}]
+15:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+11:null
+1b:I[622,[],"IconMark"]
+13:{"metadata":[["$","title","0",{"children":"Arctic Drive Map Guide: Reading Snow, Ice and Fuel"}],["$","meta","1",{"name":"description","content":"Read the Arctic Drive road before you commit: fuel stops, cabin shelters, icy bends and the whiteout rules that keep a 25 km leg from becoming a walk."}],["$","link","2",{"rel":"canonical","href":"https://arcticdrives.wiki/guides/route-reading"}],["$","meta","3",{"property":"og:title","content":"Arctic Drive Map Guide: Reading Snow, Ice and Fuel"}],["$","meta","4",{"property":"og:description","content":"Read the Arctic Drive road before you commit: fuel stops, cabin shelters, icy bends and the whiteout rules that keep a 25 km leg from becoming a walk."}],["$","meta","5",{"property":"og:url","content":"https://arcticdrives.wiki/guides/route-reading"}],["$","meta","6",{"property":"og:image","content":"https://arcticdrives.wiki/images/arctic-drive/route-map.webp"}],["$","meta","7",{"property":"og:type","content":"article"}],["$","meta","8",{"property":"article:published_time","content":"2026-11-27"}],["$","meta","9",{"property":"article:modified_time","content":"2026-11-27T00:00:00.000Z"}],["$","meta","10",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","11",{"name":"twitter:title","content":"Arctic Drive Map Guide: Reading Snow, Ice and Fuel"}],["$","meta","12",{"name":"twitter:description","content":"Read the Arctic Drive road before you commit: fuel stops, cabin shelters, icy bends and the whiteout rules that keep a 25 km leg from becoming a walk."}],["$","meta","13",{"name":"twitter:image","content":"https://arcticdrives.wiki/images/arctic-drive/route-map.webp"}],["$","link","14",{"rel":"shortcut icon","href":"/favicon-32x32.png"}],["$","link","15",{"rel":"icon","href":"/favicon-32x32.png","sizes":"32x32","type":"image/png"}],["$","link","16",{"rel":"apple-touch-icon","href":"/apple-touch-icon.png"}],["$","$L1b","17",{}]],"error":null,"digest":"$undefined"}
+18:"$13:metadata"

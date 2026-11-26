@@ -1,0 +1,187 @@
+1:"$Sreact.fragment"
+2:I[9813,["619","static/chunks/619-ba102abea3e3d0e4.js","177","static/chunks/app/layout-41eba998105111a3.js"],"default"]
+3:I[3967,["619","static/chunks/619-ba102abea3e3d0e4.js","177","static/chunks/app/layout-41eba998105111a3.js"],"default"]
+4:I[971,["619","static/chunks/619-ba102abea3e3d0e4.js","177","static/chunks/app/layout-41eba998105111a3.js"],"default"]
+5:I[9766,[],""]
+6:I[8924,[],""]
+7:I[2619,["619","static/chunks/619-ba102abea3e3d0e4.js","6","static/chunks/app/guides/page-2079c3fb87127e47.js"],""]
+e:I[7150,[],""]
+:HL["/_next/static/css/28d2fd50042458ad.css","style"]
+0:{"P":null,"b":"-gROLEs5Xe-EAqRn9CzS4","p":"","c":["","guides","first-20-minutes"],"i":false,"f":[[["",{"children":["guides",{"children":[["slug","first-20-minutes","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/28d2fd50042458ad.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","className":"dark __variable_359027 __variable_f02060","children":[["$","head",null,{"children":[false,false]}],["$","body",null,{"className":"flex min-h-screen flex-col bg-[var(--dark-1)] text-foreground font-sans antialiased pb-14 md:pb-0","children":[["$","$L2",null,{}],["$","$L3",null,{"groups":[{"label":"Getting Started","items":[{"slug":"first-20-minutes","title":"Arctic Drive Beginner Guide: Your First 20 Minutes","label":"Beginner Guide: Your First 20 Minutes","img":"/images/arctic-drive/first-20-pickup.webp","href":"/guides/first-20-minutes"},{"slug":"co-op-roles","title":"Arctic Drive Co-op Guide: Roles for 1-4 Players","label":"Co-op Guide: Roles for 1-4 Players","img":"/images/arctic-drive/coop-camp.webp","href":"/guides/co-op-roles"}]},{"label":"Truck & Cargo","items":[{"slug":"hauling-and-fuel","title":"Arctic Drive Hauling and Fuel Guide: Load vs Range","label":"Hauling and Fuel Guide","img":"/images/arctic-drive/hauling-road.webp","href":"/guides/hauling-and-fuel"},{"slug":"repair-and-damage","title":"Arctic Drive Repair Guide: Fix What Strands You","label":"Repair Guide: Fix What Strands You","img":"/images/arctic-drive/repair-garage.webp","href":"/guides/repair-and-damage"},{"slug":"recycling-and-crafting","title":"Arctic Drive Crafting and Recycling Guide: Scrap Loop","label":"Crafting and Recycling Guide: Scrap Loop","img":"/images/arctic-drive/crafting-bench.webp","href":"/guides/recycling-and-crafting"},{"slug":"base-vehicles","title":"Arctic Drive Base Vehicle Guide: Trailer vs Fixed Base","label":"Base Vehicle Guide","img":"/images/arctic-drive/base-camper.webp","href":"/guides/base-vehicles"}]},{"label":"World & Routes","items":[{"slug":"route-reading","title":"Arctic Drive Map Guide: Reading Snow, Ice and Fuel","label":"Map Guide","img":"/images/arctic-drive/route-map.webp","href":"/guides/route-reading"}]},{"label":"Game Info","items":[{"slug":"early-access-roadmap","title":"Arctic Drive Roadmap and Early Access Review (2026)","label":"Roadmap and Early Access Review (2026)","img":"/images/arctic-drive/ea-turbines.webp","href":"/guides/early-access-roadmap"},{"slug":"specs-and-platforms","title":"Arctic Drive System Requirements and Platforms","label":"System Requirements and Platforms","img":"/images/arctic-drive/specs-dash.webp","href":"/guides/specs-and-platforms"},{"slug":"faq","title":"Arctic Drive FAQ: Spelling, Solo Play, Saves and Lag","label":"FAQ","img":"/images/arctic-drive/faq-figure.webp","href":"/guides/faq"}]}]}],["$","div",null,{"className":"main-content-wrapper","children":[["$","$L4",null,{"topics":[],"hasCalculators":true}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"mx-auto w-full max-w-2xl flex-1 px-8 py-24 text-center text-white","children":[["$","p",null,{"className":"font-heading text-6xl font-bold text-zinc-700","children":"404"}],["$","h1",null,{"className":"mt-4 font-heading text-2xl font-bold text-foreground","children":"Page Not Found"}],["$","p",null,{"className":"mt-3 leading-relaxed text-zinc-400","children":"The page you are looking for does not exist or has been moved. Try the homepage or one of the topic hubs below."}],["$","div",null,{"className":"mt-8 flex flex-wrap items-center justify-center gap-4","children":[["$","$L7",null,{"href":"/","className":"rounded-lg border border-zinc-700 px-5 py-2.5 text-sm font-semibold text-zinc-200 hover:border-white hover:text-white transition-colors","children":"Back to Home"}],["$","$L7",null,{"href":"/about","className":"text-sm font-medium text-zinc-400 hover:text-white transition-colors","children":"About Arctic Drive Wiki"}]]}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}],"$L8","$L9"]}],false,false]}]]}]]}],{"children":["guides","$La",{"children":[["slug","first-20-minutes","d"],"$Lb",{"children":["__PAGE__","$Lc",{},null,false]},null,false]},null,false]},null,false],"$Ld",false]],"m":"$undefined","G":["$e",[]],"s":false,"S":true}
+10:I[4431,[],"OutletBoundary"]
+12:I[5278,[],"AsyncMetadataOutlet"]
+14:I[4431,[],"ViewportBoundary"]
+16:I[4431,[],"MetadataBoundary"]
+17:"$Sreact.suspense"
+8:["$","footer",null,{"className":"border-t border-zinc-800/60 py-8","children":["$","div",null,{"className":"mx-auto flex max-w-6xl flex-col items-center justify-between gap-3 px-6 text-xs text-zinc-500 sm:flex-row","children":[["$","div",null,{"children":"2026 © Arctic Drive Wiki"}],["$","nav",null,{"aria-label":"Footer","className":"flex items-center gap-4","children":[["$","$L7",null,{"href":"/about","className":"transition-colors hover:text-zinc-300","children":"About"}],["$","$L7",null,{"href":"/privacy","className":"transition-colors hover:text-zinc-300","children":"Privacy Policy"}],["$","$L7",null,{"href":"/tos","className":"transition-colors hover:text-zinc-300","children":"Terms of Service"}]]}]]}]}]
+9:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Organization\",\"name\":\"Arctic Drive Wiki\",\"url\":\"https://arcticdrives.wiki\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://arcticdrives.wiki/images/site/mark-256.webp\"},\"email\":\"hello@arcticdrives.wiki\"}"}}]
+a:["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+b:["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+c:["$","$1","c",{"children":["$Lf",null,["$","$L10",null,{"children":["$L11",["$","$L12",null,{"promise":"$@13"}]]}]]}]
+d:["$","$1","h",{"children":[null,[["$","$L14",null,{"children":"$L15"}],null],["$","$L16",null,{"children":["$","div",null,{"hidden":true,"children":["$","$17",null,{"fallback":null,"children":"$L18"}]}]}]]}]
+19:I[3284,["619","static/chunks/619-ba102abea3e3d0e4.js","54","static/chunks/app/guides/%5Bslug%5D/page-51b66a90e975fa73.js"],"default"]
+1a:T2e3d,
+<p><strong>Quick answer:</strong> Spend the first 20 minutes making the truck livable, not looting every shelf. Install the battery, keep one jerrycan and one repair kit, load heavy cargo low, then drive to the nearest cabin before dark. Drop decorations and empty boxes first; they cost fuel and buy you nothing.</p>
+<p>The opening is a packing problem disguised as a driving game. Your truck is the shelter, the storage locker and the only way out, so every kilogram you add is a kilogram the engine has to pull through snow. The <a href="/guides/hauling-and-fuel" class="guide-action-capsule" data-link-type="internal-capsule">hauling and fuel guide<span class="capsule-arrow">→</span></a> covers the math in detail; this page is the 20-minute version you can run while the engine is warming up.</p>
+<div class="guide-card-wrapper"><a href="/guides/hauling-and-fuel" class="guide-card-embed" data-link-type="internal-card"><div class="guide-card-media"><img src="/images/arctic-drive/hauling-road.webp" alt="Arctic Drive Hauling and Fuel Guide: Load vs Range" loading="lazy" class="guide-card-img"><div class="guide-card-scrim"></div><div class="guide-card-pill"><svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" class="guide-card-pill-icon"><circle cx="12" cy="12" r="10"></circle><polyline points="12 6 12 12 16 14"></polyline></svg><span class="guide-card-pill-read">6 min read</span></div></div><div class="guide-card-body"><div class="guide-card-info"><div class="guide-card-title">Arctic Drive Hauling and Fuel Guide: Load vs Range</div><p class="guide-card-desc">Read this next if you want the load-versus-fuel numbers before you fill the bed.</p></div><div class="guide-card-cta"><span class="guide-card-cta-text">Read Full Guide</span><div class="guide-card-cta-circle">↗</div></div></div></a></div>
+<p><figure class="figure-block"><img src="/images/arctic-drive/first-20-unload.webp" alt="A pickup parked in deep snow with the hood open, the first vehicle most players learn to keep alive."><figcaption>A pickup parked in deep snow with the hood open, the first vehicle most players learn to keep alive.</figcaption></figure></p>
+<h2 id="what-should-you-put-in-the-truck-before-you-leave">What should you put in the truck before you leave?</h2>
+<p>Load for the first night, not for a theoretical week. The truck has a battery slot, a fuel tank, a cargo bed and a cab; the cab is also your warm space, so do not turn it into a warehouse.</p>
+<p>If a part does break, the <a href="/guides/repair-and-damage" class="guide-action-capsule" data-link-type="internal-capsule">repair priority guide<span class="capsule-arrow">→</span></a> tells you what to fix before you spend scrap.</p>
+<div class="table-wrapper"><table>
+<thead>
+<tr>
+<th>Item</th>
+<th>How many</th>
+<th>Where</th>
+<th>Why it earns its weight</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Car battery</td>
+<td>1, installed</td>
+<td>Engine bay</td>
+<td>The engine will not start without one; a spare is dead weight until you need it</td>
+</tr>
+<tr>
+<td>Jerrycan</td>
+<td>1-2</td>
+<td>Trunk or bed, upright</td>
+<td>One can is your reserve; two only if you are towing or leaving the main road</td>
+</tr>
+<tr>
+<td>Repair kit</td>
+<td>1</td>
+<td>Cab or trunk</td>
+<td>Fixes the part that decides whether you drive home</td>
+</tr>
+<tr>
+<td>Torch</td>
+<td>1</td>
+<td>Cab</td>
+<td>Night repairs and salvage without burning your headlights</td>
+</tr>
+<tr>
+<td>Food and water</td>
+<td>2 days</td>
+<td>Cab</td>
+<td>Hunger and thirst tick down while you drive</td>
+</tr>
+<tr>
+<td>Warm clothing</td>
+<td>1 spare set</td>
+<td>Cab</td>
+<td>Body temperature drops faster when you are wet</td>
+</tr>
+<tr>
+<td>Sledgehammer</td>
+<td>1</td>
+<td>Bed</td>
+<td>Removes parts from donor cars instead of leaving them behind</td>
+</tr>
+</tbody>
+</table></div>
+<p>The battery is the item new players forget. If the engine turns over and dies, or the dash stays dark, check the battery before draining the tank.</p>
+<h2 id="how-should-you-load-the-truck-in-the-first-hour">How should you load the truck in the first hour?</h2>
+<p>Put the heaviest single items on the floor of the bed or trunk, directly over the rear axle. Put lighter boxes on the back seat, and keep jerrycans upright in the trunk where they cannot slide into the cab. Close the tailgate before you move; loose cargo shifts under braking and can spill on a tight turn.</p>
+<p>The official store page is blunt: weight burns fuel faster, and tight turns can spill the haul. Leave one empty seat and floor space for a repair kit or a food box.</p>
+<div class="callout callout-tip"><div class="callout-title">Load once, not three times</div><div class="callout-body"><p>Carry the first load only as far as your first shelter. Unload what you need for the night, then repack in daylight when you can see what you actually have.</p></div></div>
+<h2 id="where-should-you-spend-the-first-night">Where should you spend the first night?</h2>
+<p>A cabin with a stove is the best first-night shelter. It gives you heat, a place to dry out and a save point that does not depend on fuel. A garage or stash room with a generator is the second choice; it is warmer than the cab and usually has a workbench nearby. The truck is the fallback, not the plan.</p>
+<p>Drive to the shelter while you still have daylight. Park nose-out, close to the door, and leave the driver's side clear. If the cabin has a generator, start it before you unload so the lights and heat are already running. Then bring in food, water, one repair kit and your bedroll, and leave the rest locked in the truck.</p>
+<p>Do not sleep through a whiteout in an unheated cab. The game tracks body temperature and hypothermia; get to heat first and sort inventory second.</p>
+<h2 id="what-can-you-throw-away-immediately">What can you throw away immediately?</h2>
+<p>Throw away anything bulky with no mechanical job: decorative items, duplicate broken parts, empty boxes and low-value clutter that came with the truck. Empty boxes are recyclable, so if a recycler is close, turn them into materials instead of carrying them for 20 km. Broken parts are also recyclable, but keep one spare of the part that strands you most often.</p>
+<div class="table-wrapper"><table>
+<thead>
+<tr>
+<th>Toss or recycle</th>
+<th>Keep</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Decorations and posters</td>
+<td>Repair kit and torch</td>
+</tr>
+<tr>
+<td>Empty boxes and packaging</td>
+<td>Jerrycan and fuel</td>
+</tr>
+<tr>
+<td>Duplicate broken parts</td>
+<td>One spare tire or wheel</td>
+</tr>
+<tr>
+<td>Low-value bulky loot</td>
+<td>Food, water, warm clothes</td>
+</tr>
+<tr>
+<td>Extra mirrors and trim</td>
+<td>Battery, oil, sledgehammer</td>
+</tr>
+</tbody>
+</table></div>
+<h2 id="what-does-a-good-20-minute-route-look-like">What does a good 20-minute route look like?</h2>
+<div class="table-wrapper"><table>
+<thead>
+<tr>
+<th>Time</th>
+<th>Action</th>
+<th>Why</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>0-3 min</td>
+<td>Install battery, check oil and fuel, take one jerrycan</td>
+<td>Prevents the most common dead-on-arrival start</td>
+</tr>
+<tr>
+<td>3-8 min</td>
+<td>Load heavy items low, close the tailgate, clear the cab</td>
+<td>Keeps the truck stable and the cab warm</td>
+</tr>
+<tr>
+<td>8-15 min</td>
+<td>Drive to the nearest cabin or garage, looting only fuel, food and tools</td>
+<td>Daylight is for travel, not shelf-by-shelf clearing</td>
+</tr>
+<tr>
+<td>15-20 min</td>
+<td>Park nose-out, start heat, unload the night kit, save</td>
+<td>Ends the first day with a safe respawn point</td>
+</tr>
+</tbody>
+</table></div>
+<p>If the cabin is farther than your reserve allows, stop at a gas station first. Stations carry jerrycans, and parked cars can be siphoned. Do not push a 25 km route on a quarter tank.</p>
+<h2 id="what-should-you-do-on-night-one">What should you do on night one?</h2>
+<ol>
+<li>Park facing the exit and set the handbrake.</li>
+<li>Start the generator or stove before unloading.</li>
+<li>Bring in food, water, one repair kit and warm clothes.</li>
+<li>Repair the part that is closest to failing, not the cosmetic damage.</li>
+<li>Check the map for the next fuel stop and mark the route you will drive at first light.</li>
+<li>Save, then sleep.</li>
+</ol>
+<h2 id="faq">FAQ</h2>
+<h3 id="can-you-play-the-first-night-without-a-cabin">Can you play the first night without a cabin?</h3>
+<p>Yes, but you need the cabin heater and a parking spot out of the wind. Keep the engine off while you sleep unless you have a reason to run it, and check the temperature bar before you lie down.</p>
+<h3 id="should-you-take-the-trailer-on-day-one">Should you take the trailer on day one?</h3>
+<p>No. A trailer doubles the number of things that can go wrong before you have a repair kit, a spare and a known route. Hook one up after your first full fuel run.</p>
+<h2 id="sources-and-version-notes">Sources and version notes</h2>
+<blockquote>
+<p>Official source: <a href="https://store.steampowered.com/app/4009490/Arctic_Drive/" class="external-citation-chip" data-link-type="external-citation" target="_blank" rel="noopener noreferrer nofollow">Arctic Drive on Steam<span class="ext-arrow"> ↗</span></a> — the store page describes the truck as shelter, storage and the only way out, and confirms that weight burns fuel faster.</p>
+</blockquote>
+<ul>
+<li><a href="https://www.arcticdrivegame.com/" class="external-citation-chip" data-link-type="external-citation" target="_blank" rel="noopener noreferrer nofollow">Arctic Drive official site<span class="ext-arrow"> ↗</span></a> — game overview and feature list.</li>
+<li><a href="https://store.steampowered.com/news/app/4009490" class="external-citation-chip" data-link-type="external-citation" target="_blank" rel="noopener noreferrer nofollow">Steam launch news and patch notes<span class="ext-arrow"> ↗</span></a> — v0.23.0 and v0.23.2 changes, including the launch build.</li>
+<li><a href="https://store.steampowered.com/app/4009490/Arctic_Drive/" class="external-citation-chip" data-link-type="external-citation" target="_blank" rel="noopener noreferrer nofollow">Arctic Drive on Steam<span class="ext-arrow"> ↗</span></a> — system requirements and store features.</li>
+</ul>
+<div class="guide-next-bento-container"><div class="guide-bento-grid"><a href="/guides/hauling-and-fuel" class="guide-bento-card" data-link-type="internal-card"><span class="guide-bento-tag">NEXT OBJECTIVE</span><div class="guide-bento-title">Arctic Drive Hauling and Fuel Guide: Load vs Range</div><p class="guide-bento-desc">How to distribute cargo, estimate real fuel range per jerrycan, and decide when dropping a box is cheaper than dragging it up the next hill.</p><div class="guide-bento-cta"><span>Read Progression Route</span><span> →</span></div></a><a href="/guides/repair-and-damage" class="guide-bento-card" data-link-type="internal-card"><span class="guide-bento-tag">NEXT OBJECTIVE</span><div class="guide-bento-title">Arctic Drive Repair Guide: Fix What Strands You</div><p class="guide-bento-desc">A damage-priority guide for Arctic Drive: which broken parts stop the truck, what to salvage, and how to limp home on a bent chassis.</p><div class="guide-bento-cta"><span>Read Progression Route</span><span> →</span></div></a><a href="/guides/route-reading" class="guide-bento-card" data-link-type="internal-card"><span class="guide-bento-tag">NEXT OBJECTIVE</span><div class="guide-bento-title">Arctic Drive Map Guide: Reading Snow, Ice and Fuel</div><p class="guide-bento-desc">Read the Arctic Drive road before you commit: fuel stops, cabin shelters, icy bends and the whiteout rules that keep a 25 km leg from becoming a walk.</p><div class="guide-bento-cta"><span>Read Progression Route</span><span> →</span></div></a></div></div>f:["$","$L19",null,{"topicId":"arctic-drive","topicName":"Arctic Drive","title":"Arctic Drive Beginner Guide: Your First 20 Minutes","description":"A practical Arctic Drive opening route: what to load, how to keep the truck alive, and where to spend the first night before the cold sets in.","date":"2026-11-27","imageUrl":"https://arcticdrives.wiki/images/arctic-drive/first-20-pickup.webp","lastUpdated":"2026-11-27","contentHtml":"$1a","toc":[{"id":"what-should-you-put-in-the-truck-before-you-leave","label":"What should you put in the truck before you leave?","level":2},{"id":"how-should-you-load-the-truck-in-the-first-hour","label":"How should you load the truck in the first hour?","level":2},{"id":"where-should-you-spend-the-first-night","label":"Where should you spend the first night?","level":2},{"id":"what-can-you-throw-away-immediately","label":"What can you throw away immediately?","level":2},{"id":"what-does-a-good-20-minute-route-look-like","label":"What does a good 20-minute route look like?","level":2},{"id":"what-should-you-do-on-night-one","label":"What should you do on night one?","level":2},{"id":"faq","label":"FAQ","level":2},{"id":"can-you-play-the-first-night-without-a-cabin","label":"Can you play the first night without a cabin?","level":3},{"id":"should-you-take-the-trailer-on-day-one","label":"Should you take the trailer on day one?","level":3},{"id":"sources-and-version-notes","label":"Sources and version notes","level":2}],"tabs":[{"slug":"guides","label":"Guides","href":"/guides"}],"mainKeyword":"arctic drive beginner guide","faq":[{"question":"Can you play the first night without a cabin?","answer":"Yes, but you need the cabin heater and a parking spot out of the wind. Keep the engine off while you sleep unless you have a reason to run it, and check the temperature bar before you lie down."},{"question":"Should you take the trailer on day one?","answer":"No. A trailer doubles the number of things that can go wrong before you have a repair kit, a spare and a known route. Hook one up after your first full fuel run."}],"canonicalUrl":"https://arcticdrives.wiki/guides/first-20-minutes","video":null,"codes":[]}]
+15:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+11:null
+1b:I[622,[],"IconMark"]
+13:{"metadata":[["$","title","0",{"children":"Arctic Drive Beginner Guide: Your First 20 Minutes"}],["$","meta","1",{"name":"description","content":"A practical Arctic Drive opening route: what to load, how to keep the truck alive, and where to spend the first night before the cold sets in."}],["$","link","2",{"rel":"canonical","href":"https://arcticdrives.wiki/guides/first-20-minutes"}],["$","meta","3",{"property":"og:title","content":"Arctic Drive Beginner Guide: Your First 20 Minutes"}],["$","meta","4",{"property":"og:description","content":"A practical Arctic Drive opening route: what to load, how to keep the truck alive, and where to spend the first night before the cold sets in."}],["$","meta","5",{"property":"og:url","content":"https://arcticdrives.wiki/guides/first-20-minutes"}],["$","meta","6",{"property":"og:image","content":"https://arcticdrives.wiki/images/arctic-drive/first-20-pickup.webp"}],["$","meta","7",{"property":"og:type","content":"article"}],["$","meta","8",{"property":"article:published_time","content":"2026-11-27"}],["$","meta","9",{"property":"article:modified_time","content":"2026-11-27T00:00:00.000Z"}],["$","meta","10",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","11",{"name":"twitter:title","content":"Arctic Drive Beginner Guide: Your First 20 Minutes"}],["$","meta","12",{"name":"twitter:description","content":"A practical Arctic Drive opening route: what to load, how to keep the truck alive, and where to spend the first night before the cold sets in."}],["$","meta","13",{"name":"twitter:image","content":"https://arcticdrives.wiki/images/arctic-drive/first-20-pickup.webp"}],["$","link","14",{"rel":"shortcut icon","href":"/favicon-32x32.png"}],["$","link","15",{"rel":"icon","href":"/favicon-32x32.png","sizes":"32x32","type":"image/png"}],["$","link","16",{"rel":"apple-touch-icon","href":"/apple-touch-icon.png"}],["$","$L1b","17",{}]],"error":null,"digest":"$undefined"}
+18:"$13:metadata"

@@ -1,0 +1,187 @@
+1:"$Sreact.fragment"
+2:I[9813,["619","static/chunks/619-ba102abea3e3d0e4.js","177","static/chunks/app/layout-41eba998105111a3.js"],"default"]
+3:I[3967,["619","static/chunks/619-ba102abea3e3d0e4.js","177","static/chunks/app/layout-41eba998105111a3.js"],"default"]
+4:I[971,["619","static/chunks/619-ba102abea3e3d0e4.js","177","static/chunks/app/layout-41eba998105111a3.js"],"default"]
+5:I[9766,[],""]
+6:I[8924,[],""]
+7:I[2619,["619","static/chunks/619-ba102abea3e3d0e4.js","6","static/chunks/app/guides/page-2079c3fb87127e47.js"],""]
+e:I[7150,[],""]
+:HL["/_next/static/css/28d2fd50042458ad.css","style"]
+0:{"P":null,"b":"-gROLEs5Xe-EAqRn9CzS4","p":"","c":["","guides","early-access-roadmap"],"i":false,"f":[[["",{"children":["guides",{"children":[["slug","early-access-roadmap","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/28d2fd50042458ad.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","className":"dark __variable_359027 __variable_f02060","children":[["$","head",null,{"children":[false,false]}],["$","body",null,{"className":"flex min-h-screen flex-col bg-[var(--dark-1)] text-foreground font-sans antialiased pb-14 md:pb-0","children":[["$","$L2",null,{}],["$","$L3",null,{"groups":[{"label":"Getting Started","items":[{"slug":"first-20-minutes","title":"Arctic Drive Beginner Guide: Your First 20 Minutes","label":"Beginner Guide: Your First 20 Minutes","img":"/images/arctic-drive/first-20-pickup.webp","href":"/guides/first-20-minutes"},{"slug":"co-op-roles","title":"Arctic Drive Co-op Guide: Roles for 1-4 Players","label":"Co-op Guide: Roles for 1-4 Players","img":"/images/arctic-drive/coop-camp.webp","href":"/guides/co-op-roles"}]},{"label":"Truck & Cargo","items":[{"slug":"hauling-and-fuel","title":"Arctic Drive Hauling and Fuel Guide: Load vs Range","label":"Hauling and Fuel Guide","img":"/images/arctic-drive/hauling-road.webp","href":"/guides/hauling-and-fuel"},{"slug":"repair-and-damage","title":"Arctic Drive Repair Guide: Fix What Strands You","label":"Repair Guide: Fix What Strands You","img":"/images/arctic-drive/repair-garage.webp","href":"/guides/repair-and-damage"},{"slug":"recycling-and-crafting","title":"Arctic Drive Crafting and Recycling Guide: Scrap Loop","label":"Crafting and Recycling Guide: Scrap Loop","img":"/images/arctic-drive/crafting-bench.webp","href":"/guides/recycling-and-crafting"},{"slug":"base-vehicles","title":"Arctic Drive Base Vehicle Guide: Trailer vs Fixed Base","label":"Base Vehicle Guide","img":"/images/arctic-drive/base-camper.webp","href":"/guides/base-vehicles"}]},{"label":"World & Routes","items":[{"slug":"route-reading","title":"Arctic Drive Map Guide: Reading Snow, Ice and Fuel","label":"Map Guide","img":"/images/arctic-drive/route-map.webp","href":"/guides/route-reading"}]},{"label":"Game Info","items":[{"slug":"early-access-roadmap","title":"Arctic Drive Roadmap and Early Access Review (2026)","label":"Roadmap and Early Access Review (2026)","img":"/images/arctic-drive/ea-turbines.webp","href":"/guides/early-access-roadmap"},{"slug":"specs-and-platforms","title":"Arctic Drive System Requirements and Platforms","label":"System Requirements and Platforms","img":"/images/arctic-drive/specs-dash.webp","href":"/guides/specs-and-platforms"},{"slug":"faq","title":"Arctic Drive FAQ: Spelling, Solo Play, Saves and Lag","label":"FAQ","img":"/images/arctic-drive/faq-figure.webp","href":"/guides/faq"}]}]}],["$","div",null,{"className":"main-content-wrapper","children":[["$","$L4",null,{"topics":[],"hasCalculators":true}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"mx-auto w-full max-w-2xl flex-1 px-8 py-24 text-center text-white","children":[["$","p",null,{"className":"font-heading text-6xl font-bold text-zinc-700","children":"404"}],["$","h1",null,{"className":"mt-4 font-heading text-2xl font-bold text-foreground","children":"Page Not Found"}],["$","p",null,{"className":"mt-3 leading-relaxed text-zinc-400","children":"The page you are looking for does not exist or has been moved. Try the homepage or one of the topic hubs below."}],["$","div",null,{"className":"mt-8 flex flex-wrap items-center justify-center gap-4","children":[["$","$L7",null,{"href":"/","className":"rounded-lg border border-zinc-700 px-5 py-2.5 text-sm font-semibold text-zinc-200 hover:border-white hover:text-white transition-colors","children":"Back to Home"}],["$","$L7",null,{"href":"/about","className":"text-sm font-medium text-zinc-400 hover:text-white transition-colors","children":"About Arctic Drive Wiki"}]]}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}],"$L8","$L9"]}],false,false]}]]}]]}],{"children":["guides","$La",{"children":[["slug","early-access-roadmap","d"],"$Lb",{"children":["__PAGE__","$Lc",{},null,false]},null,false]},null,false]},null,false],"$Ld",false]],"m":"$undefined","G":["$e",[]],"s":false,"S":true}
+10:I[4431,[],"OutletBoundary"]
+12:I[5278,[],"AsyncMetadataOutlet"]
+14:I[4431,[],"ViewportBoundary"]
+16:I[4431,[],"MetadataBoundary"]
+17:"$Sreact.suspense"
+8:["$","footer",null,{"className":"border-t border-zinc-800/60 py-8","children":["$","div",null,{"className":"mx-auto flex max-w-6xl flex-col items-center justify-between gap-3 px-6 text-xs text-zinc-500 sm:flex-row","children":[["$","div",null,{"children":"2026 © Arctic Drive Wiki"}],["$","nav",null,{"aria-label":"Footer","className":"flex items-center gap-4","children":[["$","$L7",null,{"href":"/about","className":"transition-colors hover:text-zinc-300","children":"About"}],["$","$L7",null,{"href":"/privacy","className":"transition-colors hover:text-zinc-300","children":"Privacy Policy"}],["$","$L7",null,{"href":"/tos","className":"transition-colors hover:text-zinc-300","children":"Terms of Service"}]]}]]}]}]
+9:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Organization\",\"name\":\"Arctic Drive Wiki\",\"url\":\"https://arcticdrives.wiki\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://arcticdrives.wiki/images/site/mark-256.webp\"},\"email\":\"hello@arcticdrives.wiki\"}"}}]
+a:["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+b:["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+c:["$","$1","c",{"children":["$Lf",null,["$","$L10",null,{"children":["$L11",["$","$L12",null,{"promise":"$@13"}]]}]]}]
+d:["$","$1","h",{"children":[null,[["$","$L14",null,{"children":"$L15"}],null],["$","$L16",null,{"children":["$","div",null,{"hidden":true,"children":["$","$17",null,{"fallback":null,"children":"$L18"}]}]}]]}]
+19:I[3284,["619","static/chunks/619-ba102abea3e3d0e4.js","54","static/chunks/app/guides/%5Bslug%5D/page-51b66a90e975fa73.js"],"default"]
+1a:T3137,
+<p><strong>Quick answer:</strong> Arctic Drive is a $19.99 co-op survival drive with a genuinely physical truck and a thin, buggy world around it. Buy now for the 1–4 player chaos and the damage model; wait for 1.0 if you need polish, content density or stable online play.</p>
+<p>If you are still deciding, the <a href="/guides/specs-and-platforms" class="guide-action-capsule" data-link-type="internal-capsule">system requirements page<span class="capsule-arrow">→</span></a> checks whether your PC will run it.</p>
+<p>Arctic Drive launched into Early Access on <strong>November 25, 2026</strong>, at <strong>$19.99</strong> with no launch discount. Two days later Steam shows a <strong>Mixed</strong> rating: about <strong>74 reviews, 63% positive</strong>. That is not a verdict on the idea. It is a verdict on the build. The truck, the cargo and the co-op are doing something players have not seen before; the bugs, the empty map and the balance are doing something players have seen too often.</p>
+<div class="guide-card-wrapper"><a href="/guides/specs-and-platforms" class="guide-card-embed" data-link-type="internal-card"><div class="guide-card-media"><img src="/images/arctic-drive/specs-dash.webp" alt="Arctic Drive System Requirements and Platforms" loading="lazy" class="guide-card-img"><div class="guide-card-scrim"></div><div class="guide-card-pill"><svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" class="guide-card-pill-icon"><circle cx="12" cy="12" r="10"></circle><polyline points="12 6 12 12 16 14"></polyline></svg><span class="guide-card-pill-read">5 min read</span></div></div><div class="guide-card-body"><div class="guide-card-info"><div class="guide-card-title">Arctic Drive System Requirements and Platforms</div><p class="guide-card-desc">Check the system requirements and platform differences before you buy.</p></div><div class="guide-card-cta"><span class="guide-card-cta-text">Read Full Guide</span><div class="guide-card-cta-circle">↗</div></div></div></a></div>
+<p><figure class="figure-block"><img src="/images/arctic-drive/ea-plane.webp" alt="Wind turbines on the horizon, one of the procedural landmarks that break up the whiteout."><figcaption>Wind turbines on the horizon, one of the procedural landmarks that break up the whiteout.</figcaption></figure></p>
+<h2 id="what-state-is-arctic-drive-in-at-launch">What state is Arctic Drive in at launch?</h2>
+<p>The core loop is complete. You drive, load, repair, recycle, craft and survive. The truck takes real damage, cargo has real weight and the world runs on a day-night cycle with blizzards. The developer describes the Early Access build as a "fully playable complete core experience" and warns that bugs, balancing and placeholder content should be expected. That matches what the store page and reviews show.</p>
+<p>What is not complete is the density. The road is procedural, and the points of interest repeat. Cabins, stations and shops give you the loop, but not a hand-authored story. If you need a reason to drive beyond the next fuel stop, you are providing it.</p>
+<h2 id="what-works-already">What works already?</h2>
+<div class="table-wrapper"><table>
+<thead>
+<tr>
+<th>System</th>
+<th>State at launch</th>
+<th>Why it matters</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Damage model</td>
+<td>Strong</td>
+<td>Chassis bends, parts fall off, repairs are physical</td>
+</tr>
+<tr>
+<td>Cargo physics</td>
+<td>Strong</td>
+<td>Weight changes fuel burn and handling</td>
+</tr>
+<tr>
+<td>Co-op</td>
+<td>Functional but unstable</td>
+<td>Four seats, voice chat, crossplay, late join</td>
+</tr>
+<tr>
+<td>Survival</td>
+<td>Working</td>
+<td>Hunger, thirst, temperature, hypothermia</td>
+</tr>
+<tr>
+<td>Crafting</td>
+<td>Working, balance-sensitive</td>
+<td>Recycler, bench, blueprints, kits</td>
+</tr>
+<tr>
+<td>World density</td>
+<td>Thin</td>
+<td>Repeated POIs, empty buildings</td>
+</tr>
+<tr>
+<td>Performance and netcode</td>
+<td>Mixed</td>
+<td>Lag, crashes and bugs in reviews</td>
+</tr>
+</tbody>
+</table></div>
+<p>The damage model is the standout. The official page promises that "damage is fully simulated" and that parts break off; the launch patch made doors, mirrors and roof lights harder to knock off, which suggests the team is tuning rather than abandoning the system. The <a href="/guides/repair-and-damage" class="guide-action-capsule" data-link-type="internal-capsule">repair guide<span class="capsule-arrow">→</span></a> treats that system as the core game, because it is.</p>
+<h2 id="what-is-broken-or-thin">What is broken or thin?</h2>
+<p>Three complaints come up often enough to plan around:</p>
+<ol>
+<li><strong>Online stability.</strong> Players report lag, ping and packet loss, including crashes when joining a session. Crossplay works, but it is not a guarantee of a clean lobby.</li>
+<li><strong>Content repetition.</strong> Cabins and shops repeat, and some interiors are empty. The procedural road gives variety in layout, not in surprises.</li>
+<li><strong>Balance and soft locks.</strong> Fuel, food and blueprint access can be scarce, and a sandbox run without a repair kit blueprint can leave you unable to fix the truck.</li>
+</ol>
+<p>There are also bugs. The launch patch fixed a long list, including cargo falling under the car after loading a save and unreachable fuel tanks on dented cars. That is a good sign for responsiveness and a bad sign for launch polish. Expect to meet a few new ones.</p>
+<div class="callout callout-warning"><div class="callout-title">Early Access is not a preorder</div><div class="callout-body"><p>If a broken save or a bad lobby would ruin your week, wait. The game is playable, not guaranteed.</p></div></div>
+<h2 id="what-is-on-the-roadmap">What is on the roadmap?</h2>
+<p>The public roadmap has six phases. Only the first four are done or partially done:</p>
+<div class="table-wrapper"><table>
+<thead>
+<tr>
+<th>Phase</th>
+<th>Promise</th>
+<th>Status</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Ignition</td>
+<td>Closed beta</td>
+<td>Done</td>
+</tr>
+<tr>
+<td>Roadtrip</td>
+<td>Open beta, crafting, trailer base, controller support, airdrops</td>
+<td>Done</td>
+</tr>
+<tr>
+<td>First Drive</td>
+<td>Demo</td>
+<td>Done</td>
+</tr>
+<tr>
+<td>Into the Cold</td>
+<td>Early Access launch, wheel support, console support, new biomes and story</td>
+<td>Current</td>
+</tr>
+<tr>
+<td>Expeditions</td>
+<td>Mod support, random events, car mods, new biomes, scenarios, vehicles, parts, trailers</td>
+<td>Planned</td>
+</tr>
+<tr>
+<td>Full Throttle</td>
+<td>1.0, more vehicles and parts, wildlife, new scenarios</td>
+<td>Planned</td>
+</tr>
+</tbody>
+</table></div>
+<p>The important line is <strong>Expeditions</strong>: mod support and random offroad events are the two features most likely to fix the repetition problem. The developer has not dated either. Early Access is planned to last "under a year," which puts a theoretical 1.0 in late 2027, but that is an intention, not a promise.</p>
+<h2 id="is-it-worth-buying-now">Is it worth buying now?</h2>
+<div class="table-wrapper"><table>
+<thead>
+<tr>
+<th>You should buy now if...</th>
+<th>You should wait if...</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>You have 1–3 friends and voice chat</td>
+<td>You only play solo and want a story</td>
+</tr>
+<tr>
+<td>You enjoy physics-driven damage and cargo</td>
+<td>You need stable 60 fps and clean netcode</td>
+</tr>
+<tr>
+<td>You are happy to restart after a bug</td>
+<td>A lost save would end the game for you</td>
+</tr>
+<tr>
+<td>You want to see the systems evolve</td>
+<td>You want the content-complete version</td>
+</tr>
+</tbody>
+</table></div>
+<p>At $19.99 the asking price is fair for the systems that are already here. The comparison players keep making is <strong>The Long Drive</strong> with a survival layer and a crew. If that sentence excites you, buy it. If it sounds like a second job with extra bugs, wishlist it and check back after the first Expeditions update.</p>
+<h2 id="should-you-wait-for-10">Should you wait for 1.0?</h2>
+<p>Waiting has a real cost: the co-op population is small at launch, and a niche game needs players to keep lobbies alive. Buying now has a real cost too: you are paying to be a tester. The honest middle ground is to buy it with a friend, play the first 10 hours as a sandbox, and stop when the bugs outweigh the fun. The <a href="/guides/first-20-minutes" class="guide-action-capsule" data-link-type="internal-capsule">first 20 minutes guide<span class="capsule-arrow">→</span></a> is designed to get you to that decision fast.</p>
+<h2 id="frequently-asked-questions">Frequently asked questions</h2>
+<h3 id="is-the-game-content-complete">Is the game content-complete?</h3>
+<p>No. The core loop is complete, but biomes, vehicles, events and mod support are roadmap items. Treat the current map as a working slice.</p>
+<h3 id="does-the-roadmap-have-dates">Does the roadmap have dates?</h3>
+<p>No. The phases are ordered, not scheduled. The only firm date is the Early Access launch on November 25, 2026.</p>
+<h3 id="will-the-price-go-up-at-10">Will the price go up at 1.0?</h3>
+<p>The developer has not said. The current price is $19.99 with no launch discount, and the Xbox Game Preview version is listed at about $21. Buy at the price you see, not the price you hope for.</p>
+<h2 id="sources">Sources</h2>
+<blockquote>
+<p>Official source: the <a href="https://store.steampowered.com/app/4009490/Arctic_Drive/" class="external-citation-chip" data-link-type="external-citation" target="_blank" rel="noopener noreferrer nofollow">Steam store page<span class="ext-arrow"> ↗</span></a> and the <a href="https://www.arcticdrivegame.com/" class="external-citation-chip" data-link-type="external-citation" target="_blank" rel="noopener noreferrer nofollow">Arctic Drive official site<span class="ext-arrow"> ↗</span></a>, checked November 27, 2026.</p>
+</blockquote>
+<blockquote>
+<p>"Arctic Drive is a first-person co-op survival game for 1–4 players. Your car is your shelter, your storage, and your only way out." — official Arctic Drive store description, November 2026.</p>
+</blockquote>
+<ul>
+<li><a href="https://store.steampowered.com/app/4009490/Arctic_Drive/" class="external-citation-chip" data-link-type="external-citation" target="_blank" rel="noopener noreferrer nofollow">Arctic Drive on Steam<span class="ext-arrow"> ↗</span></a> — release date, price, review score and system requirements.</li>
+<li><a href="https://www.arcticdrivegame.com/" class="external-citation-chip" data-link-type="external-citation" target="_blank" rel="noopener noreferrer nofollow">Arctic Drive official site<span class="ext-arrow"> ↗</span></a> — feature list and Early Access description.</li>
+<li><a href="https://store.steampowered.com/news/app/4009490" class="external-citation-chip" data-link-type="external-citation" target="_blank" rel="noopener noreferrer nofollow">Steam news hub for Arctic Drive<span class="ext-arrow"> ↗</span></a> — roadmap phases and patch notes.</li>
+</ul>
+<div class="guide-next-bento-container"><div class="guide-bento-grid"><a href="/guides/specs-and-platforms" class="guide-bento-card" data-link-type="internal-card"><span class="guide-bento-tag">NEXT OBJECTIVE</span><div class="guide-bento-title">Arctic Drive System Requirements and Platforms</div><p class="guide-bento-desc">Arctic Drive PC specs, controller and wheel support, Steam vs Xbox Game Preview differences, crossplay and save compatibility explained.</p><div class="guide-bento-cta"><span>Read Progression Route</span><span> →</span></div></a><a href="/guides/faq" class="guide-bento-card" data-link-type="internal-card"><span class="guide-bento-tag">NEXT OBJECTIVE</span><div class="guide-bento-title">Arctic Drive FAQ: Spelling, Solo Play, Saves and Lag</div><p class="guide-bento-desc">Straight answers about Arctic Drive: the Artic Drive spelling, solo play, crossplay, lag, cloud saves, controller support and what to do first.</p><div class="guide-bento-cta"><span>Read Progression Route</span><span> →</span></div></a><a href="/guides/first-20-minutes" class="guide-bento-card" data-link-type="internal-card"><span class="guide-bento-tag">NEXT OBJECTIVE</span><div class="guide-bento-title">Arctic Drive Beginner Guide: Your First 20 Minutes</div><p class="guide-bento-desc">A practical Arctic Drive opening route: what to load, how to keep the truck alive, and where to spend the first night before the cold sets in.</p><div class="guide-bento-cta"><span>Read Progression Route</span><span> →</span></div></a></div></div>f:["$","$L19",null,{"topicId":"arctic-drive","topicName":"Arctic Drive","title":"Arctic Drive Roadmap and Early Access Review (2026)","description":"What is actually in Arctic Drive at Early Access launch, what the roadmap promises, and whether $19.99 buys a playable co-op game or a waiting list.","date":"2026-11-27","imageUrl":"https://arcticdrives.wiki/images/arctic-drive/ea-turbines.webp","lastUpdated":"2026-11-27","contentHtml":"$1a","toc":[{"id":"what-state-is-arctic-drive-in-at-launch","label":"What state is Arctic Drive in at launch?","level":2},{"id":"what-works-already","label":"What works already?","level":2},{"id":"what-is-broken-or-thin","label":"What is broken or thin?","level":2},{"id":"what-is-on-the-roadmap","label":"What is on the roadmap?","level":2},{"id":"is-it-worth-buying-now","label":"Is it worth buying now?","level":2},{"id":"should-you-wait-for-10","label":"Should you wait for 1.0?","level":2},{"id":"frequently-asked-questions","label":"Frequently asked questions","level":2},{"id":"is-the-game-content-complete","label":"Is the game content-complete?","level":3},{"id":"does-the-roadmap-have-dates","label":"Does the roadmap have dates?","level":3},{"id":"will-the-price-go-up-at-10","label":"Will the price go up at 1.0?","level":3},{"id":"sources","label":"Sources","level":2}],"tabs":[{"slug":"guides","label":"Guides","href":"/guides"}],"mainKeyword":"arctic drive roadmap","faq":[{"question":"Is the game content-complete?","answer":"No. The core loop is complete, but biomes, vehicles, events and mod support are roadmap items. Treat the current map as a working slice."},{"question":"Does the roadmap have dates?","answer":"No. The phases are ordered, not scheduled. The only firm date is the Early Access launch on November 25, 2026."},{"question":"Will the price go up at 1.0?","answer":"The developer has not said. The current price is $19.99 with no launch discount, and the Xbox Game Preview version is listed at about $21. Buy at the price you see, not the price you hope for."}],"canonicalUrl":"https://arcticdrives.wiki/guides/early-access-roadmap","video":null,"codes":[]}]
+15:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+11:null
+1b:I[622,[],"IconMark"]
+13:{"metadata":[["$","title","0",{"children":"Arctic Drive Roadmap and Early Access Review (2026)"}],["$","meta","1",{"name":"description","content":"What is actually in Arctic Drive at Early Access launch, what the roadmap promises, and whether $19.99 buys a playable co-op game or a waiting list."}],["$","link","2",{"rel":"canonical","href":"https://arcticdrives.wiki/guides/early-access-roadmap"}],["$","meta","3",{"property":"og:title","content":"Arctic Drive Roadmap and Early Access Review (2026)"}],["$","meta","4",{"property":"og:description","content":"What is actually in Arctic Drive at Early Access launch, what the roadmap promises, and whether $19.99 buys a playable co-op game or a waiting list."}],["$","meta","5",{"property":"og:url","content":"https://arcticdrives.wiki/guides/early-access-roadmap"}],["$","meta","6",{"property":"og:image","content":"https://arcticdrives.wiki/images/arctic-drive/ea-turbines.webp"}],["$","meta","7",{"property":"og:type","content":"article"}],["$","meta","8",{"property":"article:published_time","content":"2026-11-27"}],["$","meta","9",{"property":"article:modified_time","content":"2026-11-27T00:00:00.000Z"}],["$","meta","10",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","11",{"name":"twitter:title","content":"Arctic Drive Roadmap and Early Access Review (2026)"}],["$","meta","12",{"name":"twitter:description","content":"What is actually in Arctic Drive at Early Access launch, what the roadmap promises, and whether $19.99 buys a playable co-op game or a waiting list."}],["$","meta","13",{"name":"twitter:image","content":"https://arcticdrives.wiki/images/arctic-drive/ea-turbines.webp"}],["$","link","14",{"rel":"shortcut icon","href":"/favicon-32x32.png"}],["$","link","15",{"rel":"icon","href":"/favicon-32x32.png","sizes":"32x32","type":"image/png"}],["$","link","16",{"rel":"apple-touch-icon","href":"/apple-touch-icon.png"}],["$","$L1b","17",{}]],"error":null,"digest":"$undefined"}
+18:"$13:metadata"
